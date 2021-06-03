@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of a future glorious estate of a church to be here upon earth at Christ's personal appearance for the restitution of all things, a thousand years before the ultimate day of the general judgment. Set forth by a letter to a friend. As also further proved by divers scriptures, together with the testimony of many godly devines, both ancient and modern. / By S.H. of Boston in New-England.</title>
+            <author>Hutchinson, Samuel, d. 1667.</author>
+         </titleStmt>
+         <extent>Approx. 97KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09266</idno><idno type="EEBO-CITATION">124064199</idno>
+  <idno type="VID">192279</idno>
+  <idno type="EEBO-PROQUEST">2240970216</idno>
+  
+            <idno type="OCLC"> 124064199</idno>
+            <idno type="STC">Wing H3835A</idno>
+            <idno type="STC">ESTC R234731</idno>
+            <idno type="OCLC">ocn 124064199</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09266)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192279)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2912:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of a future glorious estate of a church to be here upon earth at Christ's personal appearance for the restitution of all things, a thousand years before the ultimate day of the general judgment. Set forth by a letter to a friend. As also further proved by divers scriptures, together with the testimony of many godly devines, both ancient and modern. / By S.H. of Boston in New-England.</title>
+                  <author>Hutchinson, Samuel, d. 1667.</author>
+               </titleStmt>
+               <extent>36 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 16]67.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at the foot of p. 8: Samuel Hutchison.</note>
+                  <note>Imperfect: t.p. torn with nearly total loss of imprint; imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the University of Toronto Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">End of the world --  Early works to 1800.</term>
+               <term type="topical_term">Judgment Day --  Early works to 1800.</term>
+               <term type="topical_term">Second Advent --  Early works to 1800.</term>
+               <term type="topical_term">Millennium (Eschatology) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:192279:1"/>
+            <p>A DECLARATION of a <hi>Future Glori<g ref="char:EOLhyphen"/>ous Estate</hi> of a CHURCH to be here upon Earth, at CHRISTS PERSO<g ref="char:EOLhyphen"/>NAL APPEARANCE for the Restitu<g ref="char:EOLhyphen"/>tion of all things, a THOUSAND YEARS before the Ultimate Day of the General Judgement.</p>
+            <p>Set forth by a LETTER to a FRIEND.</p>
+            <p>As also further proved by divers Scriptures, together with the Testimony of many Godly DIVINES, both ANCIENT and MODERN.</p>
+            <p>By <hi>S. H.</hi> of <hi>Boston</hi> in <hi>New-England.</hi>
+            </p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Heb. 12.26, 27.</hi>
+                  </bibl> Yet once more shak<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Earth onely, but also Heaven.</p>
+               <p>And this word [yet once more, <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gnifies t<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> removing of those things that are shaken, as of things that are made, that those things which can<g ref="char:EOLhyphen"/>not be shaken may remain.</p>
+               <p>
+                  <bibl>
+                     <hi>Ezek. 21.27.</hi>
+                  </bibl> I will overturn, overturn, overturn it, and it shall be no more, until He come whose Right it is, and I will give it Him.</p>
+               <p>
+                  <bibl>
+                     <hi>Rev. 11.15.</hi>
+                  </bibl> The Kingdoms of this World are become the Kingdoms of our Lord, and his Christs, and he shall reign for ever and ever.</p>
+               <p>
+                  <bibl>
+                     <hi>Zech. 14.5, 9.</hi>
+                  </bibl> The Lord my God shall come, and all the Saints with thee.</p>
+               <p>And the Lord shall be King over all the Earth: In that day there shall be <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lord, and his Name on<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+            </q>
+            <p>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>67.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:192279:2"/>
+            <pb n="3" facs="tcp:192279:2"/>
+            <head>The seventh Angel sounding, presents a glimpse of the glo<g ref="char:EOLhyphen"/>rious Reign of <hi>Jesus Christ,</hi> vvhose Personal Appearance is Royally attended vvith these Fifteen Changes, full of Wonder, as so many Trophies of His Absolute Victory and Universal Soveraignty: By <hi>T. T.</hi>
+            </head>
+            <list>
+               <item>
+                  <hi>1</hi> The Saints deceased Royal Jesus brings:</item>
+               <item>
+                  <hi>2</hi> The rest released, Mount on Angels Wings.</item>
+               <item>
+                  <hi>3</hi> To <hi>Israels</hi> Mourning, Sounds a glorious Call:</item>
+               <item>
+                  <hi>4</hi> To <hi>Babels</hi> Burning, An eternal Fall.</item>
+               <item>
+                  <hi>5</hi> The World combined, Hath a fatal Blow;</item>
+               <item>
+                  <hi>6</hi> Satan confined To his Den below.</item>
+               <item>
+                  <hi>7</hi> The whole Creation Findes a full Release;</item>
+               <item>
+                  <hi>8</hi> And every Nation Flourisheth with Peace.</item>
+               <item>
+                  <hi>9</hi> The Mount asunder Cleaves, t' enlarge the plain,
+<list>
+                     <item>(That Vale of Wonder Where the Lord must reign)</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>10</hi> The glorious City From Gods Throne doth glide:</item>
+               <item>
+                  <hi>11</hi> The Nuptial Ditty Ʋshers in the Bride.</item>
+               <item>
+                  <hi>12</hi> Thus Saints regaining An immortal state,</item>
+               <item>
+                  <hi>13</hi> In glory reigning While the Sun bears date.</item>
+               <item>
+                  <hi>14</hi> The Nations bending. Virgins Voices raise;</item>
+               <item>
+                  <hi>15</hi> All Duties ending In Joy, Love, and Praise.</item>
+            </list>
+         </div>
+         <div type="text">
+            <epigraph>
+               <q>
+                  <p>
+                     <bibl>
+                        <hi>Zech. 14.5, 9.</hi>
+                     </bibl> The Lord my God shall come, and all the Saints with thee; and the Lord shall be King over all the Earth.</p>
+                  <p>
+                     <bibl>
+                        <hi>Psal. 102.16.</hi>
+                     </bibl> When the Lord shall build up Sion, he shall appear in his Glory.</p>
+               </q>
+            </epigraph>
+            <p>IN this Letter and Writing following, I do not approve of such Fifth-Monarchy-Men as take up Arms against Commonwealths and Governments, established where they live, as some private men have done of late years at <hi>London,</hi> in our native Country; but of such Fifth-Monarchy-men that <hi>Daniel</hi> prophesied of, <hi>Dan.</hi> 2.44, 45. <hi>&amp;</hi> 7.13, 14. which will not be till Christ appear in the Clouds, for the Restitution of all things, according to <hi>Act.</hi> 3.20.</p>
+            <pb n="4" facs="tcp:192279:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:192279:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <pb n="4" facs="tcp:192279:4"/>
+                        <head>A Letter sent to a Friend in <hi>Old England,</hi> concerning the Per<g ref="char:EOLhyphen"/>sonal Monarchical Reign of <hi>CHRIST</hi> with his <hi>SAINTS,</hi> here upon <hi>Earth,</hi> a thousand years before the ultimate uni<g ref="char:EOLhyphen"/>versal Day of Judgement. Being an Answer to a Letter sent from <hi>Old England</hi> to <hi>Nevv,</hi> in the year of our <hi>LORD 1659.</hi>
+                        </head>
+                        <opener>
+                           <salute>Loving Brother,</salute>
+                        </opener>
+                        <p>
+                           <seg rend="decorInit">I</seg>N <hi>Fifty Nine</hi> you wrote something unto me con<g ref="char:EOLhyphen"/>cerning the Fifth-Monarchy-Men: And you thought many good Men held the point, and many good Men opposed it; and so do I; there are good men both for and against it. And though St. <hi>Austin</hi> fell off from it, and <hi>Calvin</hi> condemn'd it, yet that doth not prove it an Error. A Point may be thought to be confuted, when it is not so much confuted as ill-defended. Though <hi>Calvin</hi> calls this Opinion a <hi>Dotage,</hi> yet that proves nothing against it, no more then if another should say as much of his Opinion out of <hi>Isa.</hi> 11.6. where he holds that there is to be a People here upon Earth as free from Sin, as <hi>Adam</hi> before his fall: the like I have heard read in Notes taken from Mr. <hi>Cotton,</hi> that he held the like; as also Dr. <hi>Goodwin</hi> from that expression in the Lords Prayer, <hi>Thy will be done in Earth, as in Heaven.</hi> That place in 1 <hi>Thess.</hi> 4.17. if you look into the Original, you shall find it, as Mr. <hi>Mede</hi> saith, not <hi>then,</hi> but <hi>afterwards; Afterwards we which live; and remain upon the Earth, shall be caught up,</hi> &amp;c. Now this word <hi>first,</hi> or <hi>then,</hi> or <hi>afterwards,</hi> saith he, may admit a great distance of time, as 1 <hi>Cor.</hi> 15.23. <hi>Every one,</hi> or all mankind, <hi>shall rise in their order; Christ the first fruits,</hi> that is, first; <hi>afterwards they that are Christs at his coming:</hi> Here <hi>afterwards</hi> notes a great distance of time, of above a thousand and an half of years, as we may find by experience. So that I conceive that the Saints are not then at Christs second coming when he comes for the Restitution of all things, as it is <hi>Act.</hi> 3.20. to be taken up into the Clouds, but <hi>afterwards,</hi> after the thousand years, when Christ delivers up the Kingdom into his Fathers hands,
+<pb n="5" facs="tcp:192279:4"/> as in 1 <hi>Cor.</hi> 15. then to be caught up into the Clouds, and to be with Christ for ever. And this I conceive to be the ultimate day of Judg<g ref="char:EOLhyphen"/>ment, when the Saints shall be translated into Heaven, and the Wicked cast into Hell.</p>
+                        <p>When Christ comes to Judgement, he comes accompanied only with all his Saints and Angels, for the Restitution of all things, but not for the Annihilation of all or most things, as at the ultimate Day of Judgement: For as the Souls of the Elect, as in <hi>Rev.</hi> 20. lived and reigned with Christ a thousand years; so the rest of the Dead, that is, the Wicked, they rose not again till the thousand years were ended. So that it cannot be the ultimate Day of Judg<g ref="char:EOLhyphen"/>ment before the Wicked rise: the beginning of the Day of Judge<g ref="char:EOLhyphen"/>ment it may be, whilst Christ judges those that are upon the Earth, being accompanied with all his Saints for the judging of them, ac<g ref="char:EOLhyphen"/>cording as the Apostle speaks, <hi>Know ye not that the Saints shall judge the World?</hi> But at the ultimate Day of Judgment, Christ judgeth the World alone, as you may see in <hi>Rev.</hi> 20.11. And so when <hi>Peter</hi> speaks of the Heavens and the Earth to be burnt up, and purged from their dross; yet saith he, <hi>Notwithstanding we look for a new Heaven and a new Earth, wherein dwelleth Righteousness;</hi> and this cannot be after the day of Judgement, but before: for as you may read in <hi>Rev.</hi> 20.11. at the ultimate day of Judgement the Heavens and the Earth fled away, and their place was no more found. I shall not deny but there may be a glorious estate of a Church here upon Earth before this time come, if the Jews were converted, and the fulness of the Gentiles brought in. But Mr. <hi>Mede</hi> holds that the Jews shall never be converted before Christ appears in the Clouds, and he gives this reason for it, Because they have had now the Word preached unto them this sixteen hundred years, and are not yet wrought upon; and therefore he conceives that they shall be converted miraculously, as <hi>Paul</hi> was, when a Light shone about him. And another reason that he gives, why they shall not be con<g ref="char:EOLhyphen"/>verted till Christ appear in the Clouds, is this; Because it is said, <hi>They shall look upon him whom they have pierced, and they shall mourn over him, as one mourneth for his onely Son;</hi> which shews a penetential Mourning.</p>
+                        <p>But however, though there may be a glorious Estate of a Church before Christ appears in the Clouds, and comes to Judgement for the Restitution of all things; yet that there will be such a time as Christs Reigning upon Earth, there are so many Scriptures to prove
+<pb n="6" facs="tcp:192279:5"/> it, both in the Old Testament and the New, that I do not know how candidly they can be answered.</p>
+                        <p>We read of a Nobleman going into a far Country, and to receive for himself a Kingdom, and to return; and of the Angels ascend<g ref="char:EOLhyphen"/>ing and descending upon the Son of Man; and of Gods giving un<g ref="char:EOLhyphen"/>to him the Throne of his Father <hi>David,</hi> in <hi>Luk.</hi> 2. and so in <hi>Rev.</hi> 3. <hi>To him that overcomes I will give to sit with me in my Throne, as I ha<g ref="char:EOLhyphen"/>ving overcome do sit with my Father in his Throne;</hi> and so in <hi>Rev.</hi> 5. the Elders sing praise to God, who hath redeemed them by his Blood, for say they, <hi>We shall reign upon the Earth:</hi> and so in <hi>Dan.</hi> 7. <hi>There was given unto him Dominion, and Glory, and a Kingdom:</hi> and so in <hi>Rev.</hi> 20.21. and divers other places, both in the old and new Testa<g ref="char:EOLhyphen"/>ment, which would be too tedious to recite. There is no point in all the Scripture backt with so many Scriptures to prove the truth of it. And methinks it doth much derogate from the Glory of Christ, to deny him his personal Reign upon Earth: For shall we grant him his Priestly Office personally, and his Prophetical Office personally, and shall we deny him his Kingly Office personally? He took both his Priestly and Prophetical Office upon him personally, when he was upon the Earth; but his Kingly Office personally he would not then take, because that he reserved till his second coming: for though he would not take upon him his Kingly Office in this World, yet he will take it upon him in the World to come, which is this new Heaven and new Earth, wherein dwelleth Righteousness. <hi>I know</hi> (saith <hi>Job,</hi> Chap. 19.) <hi>that my Redeemer lives, and that my Eyes shall see him, and he shall stand in the latter day upon the Earth:</hi> Now if <hi>Job</hi> shall see him upon the Earth, he must be raised from the Dead again.</p>
+                        <p>Yea, but you will say, <hi>That must be at the Day of Judge<g ref="char:EOLhyphen"/>ment.</hi>
+                        </p>
+                        <p>So say I too; for I do not hold that Christ will come and Reign upon the Earth till the Day of Judgement, till he come to judge those that are upon the Earth. But this is not the ultimate day of Judgement, because the Wicked are not yet raised from the Dead: <hi>for the rest of the Dead rose not again till the thousand years were ended.</hi> Christ comes to Judgement onely accompanied with all his Saints and Angels, to reign with him in that Kingdom that was gi<g ref="char:EOLhyphen"/>ven him of his Father: For after the ultimate day of Judgement, he delivers up all into his Fathers hands, that God may be all in all. It is generally conceived that the <hi>Jews</hi> shall be converted, and the
+<pb n="7" facs="tcp:192279:5"/> fulness of the <hi>Gentiles</hi> shall be brought in, before the day of Judge<g ref="char:EOLhyphen"/>ment. I grant it before the ultimate Day of Judgement; but whe<g ref="char:EOLhyphen"/>ther they will be converted before Christ appear unto them in the Clouds for their Conversion, I make a question: Because their Con<g ref="char:EOLhyphen"/>version in Scripture seems to hold forth a miraculous way, as in <hi>Isa.</hi> 66.7. <hi>Before Sion travelled, she brought forth; before her pain came, she was delivered of a Man-Child: Who hath heard such a thing, who hath seen such a thing?</hi> faith the Prophet. Now if the Prophet himself were driven into such an astonishment at it, as it were, then certainly the time of their Conversion will be in such a manner as shall be to the astonishment of all the World. So that while we dream of their Conversion in a gradual way, Christ may be upon us unawares: for he saith, <hi>He will come as a thief in the night;</hi> that <hi>when men shall cry peace and safety, then shall come upon them sudden de<g ref="char:EOLhyphen"/>struction. Daniel</hi> tells us, That when <hi>Michael</hi> shall stand up to de<g ref="char:EOLhyphen"/>liver his People, <hi>there shall be a time of trouble, such as never was since there was a Nation:</hi> And Christ alleadging the words of <hi>Daniel,</hi> saith, <hi>No; nor never shall be.</hi> So that when we see the People of God in such distress as never was known in the World, then we may look for Christs appearance for the delivering of them.</p>
+                        <p>Yea, but you will say, <hi>Christ tells us that when he comes to Judge<g ref="char:EOLhyphen"/>ment he shall hardly find Faith upon Earth;</hi> and now there is more Knowledge then ever, and therefore this is not like the time of Christs appearance. And <hi>Daniel</hi> tells us in those last times, <hi>many shall run to and fro, and Knowledge shall abound.</hi>
+                        </p>
+                        <p>I answer, That if Christ were to come this day to Judgement, he should not find much Faith upon Earth, to be compared with all the World; the twentieth part of the World being not Christian, as is supposed, nor making profession of Christ. And for the rest of the World that do make profession of Christ; as <hi>Papists</hi> and <hi>Protestants,</hi> and all other Sects, yet how little true justifying saving Faith there is to be sound amongst them; I leave to consideration: For though Knowledge do abound, yet true saving justifying Faith will be found very scarce.</p>
+                        <p>Yea, but you will say, <hi>Those Points about Christs Personal Reign are not so necessary to be known, we ought to look more to our Justification and Sanctification, and Ʋnion with Chris<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>, and the like.</hi>
+                        </p>
+                        <p>I grant you that these are very necessary, and not to be omitted; but yet we are to prefer the Glory of Christ before our own Sa<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>va<g ref="char:EOLhyphen"/>tion; and it makes much for the Glory of Christ, as I conceiv<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, too
+<pb n="6" facs="tcp:192279:6"/>
+                           <gap reason="duplicate" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb n="7" facs="tcp:192279:6"/>
+                           <gap reason="duplicate" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb n="8" facs="tcp:192279:7"/> be honoured here upon Earth in that humane nature that was so vi<g ref="char:EOLhyphen"/>lified amongst men; and I conceive it makes much for the dishonor of Christ to grant him his Prophetical and Priestly Office personally here upon Earth, and to deny him his Kingly Office personally here upon Earth, when God hath promised that he will set his King upon his holy Hill of <hi>Sion;</hi> as in <hi>Psal.</hi> 102. <hi>When God doth build up Sion, he will appear in his Glory.</hi>
+                        </p>
+                        <p>Mr. <hi>Burroughs</hi> preaching out of <hi>Hosea,</hi> upon these words, <hi>Great shall be the day of Jezreel,</hi> toucheth upon this point of Christs perso<g ref="char:EOLhyphen"/>nal Reign; he told his People that he would not at that time enter into the discussion of it, because as yet they were not able to bear it; but saith he, <hi>Let me speak my Conscience, I dare not altogether deny it:</hi> and then afterwards, (as you may see in his Book) he comes to speak more fully of it.</p>
+                        <p>Much more might be said concerning this point, and abundance of Scriptures brought, both out of the Old and New Testaments, for the proving of it: But because it would be too tedious to write in a Letter, I shall here make my Conclusion, desiring that both you and I, and all the People of God, may labour to make our calling and election sure, that so when ever the Lord Jesus appears, we may appear with him in Glory.</p>
+                        <p>Thus with my kind love remembred to you, with all my Friends with you, desiring the Lord to guide us in his own Way, to his own Praise; I commit you to God, and to the Word of his Grace, who is able to build us up further, and to give us an inheritance among all those that are sanctified.</p>
+                        <closer>
+                           <signed>
+                              <hi>Your loving Brother in the Lord, who looks to be made Partaker of the same Inheri<g ref="char:EOLhyphen"/>tance with you,</hi> Samuel Hutchinson.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>IF the Saints must live and reign with Christ a thousand years, as in <hi>Rev.</hi> 20.4. Then I demand where they must live and reign with him? In Heaven they must be with Christ to all Eternity, and therefore it must be upon Earth.</p>
+            <pb n="9" facs="tcp:192279:7"/>
+            <p>
+               <hi>Justin Martyr</hi> tells us, that this point of Christs personal Reign was so generally received in the Primitive times, and for a whole Age after, that they were not then counted Orthodox in all points, that did not receive it.</p>
+            <p>In the Catechism set forth in the days of King <hi>Edward</hi> the Sixth, the question was, <hi>Why they prayed in the Lords Prayer, Thy Kingdom come?</hi> Their answer was, They prayed that his Kingdom might come, because they saw not yet that little Stone out out of the Mountain without hands, that should break to pieces all the King<g ref="char:EOLhyphen"/>domes of the Earth.</p>
+            <p>Dr. <hi>Goodwin</hi> holds from those words in the Lords Prayer, where it is said, <hi>Thy will be done in Earth as it is in Heaven;</hi> that there shall be a time here upon Earth wherein the will of God shall be done as compleatly as in Heaven: And if so, I cannot believe that that will ever be, till Christ himself come to Judgement, for the Re<g ref="char:EOLhyphen"/>stitution of all things.</p>
+            <p>In <hi>Ezek.</hi> 43.6. <hi>There stood a man by me,</hi> saith the Prophet, <hi>and he said unto me, Son of man, This is the place of my Throne, and the place of the soals of my Feet, where I will dwell amongst the Children of Israel for ever.</hi>
+            </p>
+            <p>In <hi>Rev.</hi> 21.3. <hi>The Tabernacle of God is with men, and he will dwell with them.</hi> In <hi>Psa.</hi> 2. <hi>Ask of me,</hi> saith God, <hi>and I will give thee the Heathen for thine Inheritance, and the utmost parts of the Earth for thy Possession.</hi> And in <hi>Psal.</hi> 72.8. <hi>His Dominion shall be from Sea to Sea, and from the River to the ends of the Earth:</hi> and in Vers. 11. <hi>All Kings shall worsh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p him, all Nations shall serve him:</hi> and in Vers. 17. <hi>His Name shall be for ever, his Name shall endure as long as the Sun. All Nations shall bless him, and be blessed in him.</hi> And in <hi>Ezek.</hi> 14.9. <hi>The Lord shall be King over all the Earth: In that day there shall be one Lord, and his Name one,</hi> Isa. 24.23. <hi>Then the Moon shall be abashed, and the Sun ashamed, when the Lord of Hosts shall reign in Mount Sion, and in Jerusalem, and before the Antients gloriously.</hi> Luk. 1.31, 32. <hi>He shall be great, and be called the Son of the most High; and the Lord shall give unto him the Throne of his Father David, and he shall reign over the House of Jacob for ever, and of his Kingdom there shall be no end.</hi>
+            </p>
+            <p>In <hi>Rom.</hi> 8.21, 22. it is said, That <hi>the creature also shall be delivered from the bondage of Corruption, into the glorious Liberty of the Sons of God.</hi> I demand then where that <hi>glorious liberty</hi> of theirs shall be? Not in Heaven surely, for there they are not like to come; then it
+<pb n="10" facs="tcp:192279:8"/> must be here upon Earth. So that it is part of our Redemption by the Blood of Christ; which we contend for, in the fall of the fourth Monarchy. So Mr. <hi>John Rogers,</hi> on Morning Beams: <hi>Christ hath his Kingdom as he is God, and he hath his Kingdom as he is Mediator, God-Man.</hi> Every one will grant Christ to have a spiritual Kingdom here upon Earth, while he rules and governs by his Spirit, and thus he hath governed from the beginning of the World; but they will not grant him a temporal Kingdom, though God tells him, That <hi>he will give him the Heathen for his Inheritance, and the uttermost parts of the Earth for his Possession; and he will set his King upon his holy Hill of Sion, and his Dominion shall be from Sea to Sea.</hi> God reveals these great Secrets that were to come in after-times, to Christ; Christ he reveals them to the Angel, and the Angel he reveals them to <hi>John,</hi> and <hi>John</hi> is to reveal them to the Churches, <hi>Rev.</hi> 1.1. and <hi>John</hi> tells us, that <hi>he is to reveal things to come.</hi>
+            </p>
+            <p>Mr. <hi>Brooks</hi> in his Book of Heaven upon Earth, <hi>fol.</hi> 283. saith, <q rend="margDblQuotes">By entrance into the Kingdom of Christ, is not meant a local entrance into Heaven; for Heaven is no where called the King<g ref="char:EOLhyphen"/>dom of Christ, but the Fathers Kingdom: <hi>Adde to your Faith, Vertue; and to Vertue, Knowledge; and to Knowledge, Temperance,</hi> &amp;c. 2 Pet. 1.5. to 11. <hi>for if these things be in you, and abound,</hi> &amp;c. <hi>then,</hi> as it is vers. 11. <hi>an entrance shall be administred unto you abun<g ref="char:EOLhyphen"/>dantly into the Kingdom of our Lord and Saviour Jesus Christ:</hi> For as God hath his Kingdom, so Christ the Mediator, God-Man, hath his Kingdom, according to that in 2 <hi>Tim.</hi> 4.1. Is not the day of Christ a day of Restitution of all things? <hi>Act.</hi> 3.21. Is not the day of Christ a day of Redemption, a day of the glorious Liberty of the Sons of God? <hi>Rom.</hi> 8.21, 23. Doth not the Church groan within her self, waiting for the Adoption? <hi>Vers.</hi> 23. Doth not the Bride and the Spirit say, <hi>Come?</hi> And doth not he that heareth say, Come? And doth not the voice of the Turtle answer, Even so, Come Lord Jesus? <hi>Rev.</hi> 22.17, 20. O let him come and not tarry; why stay the Wheels of his Chariot so long?</q> Thus Mr. <hi>Brooks.</hi>
+            </p>
+            <p>In <hi>Isa.</hi> 33.20. <hi>Thine Eyes shall see Jerusalem a quiet Habitation, a Tabernacle that shall not be taken down, nor one of the stakes thereof re<g ref="char:EOLhyphen"/>moved:</hi> and in Vers. 24. <hi>And no Inhabitant shall say, I am sick.</hi> And in <hi>Isa.</hi> 54.13. <hi>Great shall be the peace of thy Children.</hi> And in <hi>Isa.</hi> 60.18. <hi>Violence shall be no more heard in thy Land, nor desolation nor destru<g ref="char:EOLhyphen"/>ction with in thy Borders:</hi> and in Vers. 21. <hi>Thy People shall be all righ<g ref="char:EOLhyphen"/>teous, they shall possess the Land for ever.</hi>
+            </p>
+            <pb n="11" facs="tcp:192279:8"/>
+            <p>Zech. 8.23. <hi>Thus saith the Lord of Hosts, In those days shall ten men take hold of all Languages of the Nations, even take hold of the Skirt of him that is a Jew, and say, We will go with you, for we have heard that God is with you.</hi>
+            </p>
+            <p>The <hi>New Jerusalem</hi> which came down from God out of Heaven, spoken of in <hi>Rev.</hi> 21.2. is Christ and his raised Saints, they are one thing, and the Saints that be upon Earth are another thing: They shall walk in the Light of the <hi>New Jerusalem,</hi> as it is in Vers. 24. and Christ is said to be the Light thereof, as it is in Vers. 23. Those Saints that come with Christ to Judgement, they have spiritual Bo<g ref="char:EOLhyphen"/>dies; <hi>It is sown a natural Body, &amp; it is raised a spiritual Body;</hi> and a spi<g ref="char:EOLhyphen"/>ritual Body is quick in motion, now here, now there, in an instant: But as for those Saints that are upon the Earth, they die not, but are onely changed into such a condition as <hi>Adam</hi> before his Fall, being freed both from Sin and Death: For if <hi>Adam</hi> had never sinned, he had never died; and therefore the Apostle tells us, That <hi>we shall not all die, but be changed in a moment, in the twinkling of an eye, at the last Trump,</hi> 1 Cor. 15.51, 52.</p>
+            <p>The fifth Kingdom, or Kingdom of Christ, is founded upon the New Covenant: <hi>Jer.</hi> 33.20, 21. <hi>If you can break my Covenant of the day, and my Covenant of the night, and that there shall not be day and night in their season; then may also my Covenant be broken with David my Servant, that he should not have a Son to sit upon his Throne:</hi> And in Vers. 17. it is said, <hi>David shall never want a man to sit upon the Throne of the House of Israel.</hi> Now <hi>Davids</hi> Kingdom was a Type of Christs Kingdom; and <hi>Davids Kingdom</hi> is not only a spiritual King<g ref="char:EOLhyphen"/>dom, but an outward visible Kingdom; and this Covenant with <hi>Da<g ref="char:EOLhyphen"/>vid</hi> was as certain as the Covenant of Day and Night. So <hi>Tillinghast.</hi>
+            </p>
+            <p>One great thing that the Father promised to Christ from all Eter<g ref="char:EOLhyphen"/>nity, is, that Christ should have a Kingdom, wherein Kings should worship him, and Princes should fall down before him: but there hath never been such a day as yet. <hi>Zech.</hi> 14.9. <hi>The Lord my God shall come, and all the Saints with thee; and the Lord shall be King over all the Earth. In that day shall there be one Lord, and his Name one.</hi> Rev. 11.15. <hi>The Kingdoms of this World are become the Lords and his Christs, and he shall reign for ever and ever.</hi>
+            </p>
+            <p>If these Gospel-times we live in, be the <hi>New Jerusalem,</hi> as some would have it, then I demand, When got we out of our Wilderness-Condition? while the Churches of Christ are under great afflictions, as they are at this day, it cannot be the time of the <hi>New Jerusalem,</hi>
+               <pb n="12" facs="tcp:192279:9"/> for that is a time of Prosperity, both inward and outward, to the People of God; then the Jews shall be converted, and the fulness of the Gentiles shall be brought in, and the Spirit shall be poured in abundant manner upon all Flesh. This is a time when Jesus Christ shall come for the Restitution of all things, as in <hi>Act.</hi> 3. This is a time when God will make him his first-born, higher then the Kings of the Earth, as in <hi>Psal.</hi> 89.27. This is that time that <hi>Peter</hi> speaks of, in 2 <hi>Pet.</hi> 3.10. before which the Heavens shall pass away with a great noise, and the Elements shall melt with fervent heat, the Earth also, and the works that are therein, shall be burnt up; that is, as <hi>Malachy</hi> speaks, in Chap. 3.2. with a Refiners fire. This is the time wherein, according to his Promise, we look for a New Heaven and a New Earth, wherein dwelleth Righteousness, as <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> speaks, 2 <hi>Pet.</hi> 3.13. This is that time that <hi>Peter</hi> quotes, and <hi>Isaiah</hi> speaks of, in <hi>Isa.</hi> 65.17, 18, 19, 20. <hi>Lo I create new Heavens, and a new Earth, and the former shall not be remembred, nor come into Mind; But be you glad and rejoyce in the things that I shall create, for behold I create Jerusalem a Rejoycing, and her People a Joy; and I will rejoyce in Jerusalem, and joy in my People; and the Voice of Weeping shall no more be heard in her, nor the Voice of Crying: There shall be no more thence an Infant of days, nor an old man that hath not filled his years: for the Child shall die an hundred years old; but the Sinner being an hundred years old, shall be accursed.</hi> Now whereas it is here translated <hi>FOR the Child shall die an hundred years old,</hi> Dr. <hi>Homes</hi> saith it may be more fitly translated, <hi>THAT the Child should die an hundred years old,</hi> and so makes no Death at all to the Godly: But take it <hi>for</hi> the Child shall die an hundred years old, or <hi>that</hi> the Child shall die an hundred years old, it plainly shews that these Gospel-times we now live in, cannot be the <hi>New Jerusalem</hi> there spoken of. In these days we live in, we count him not a child, but an old man, that lives to be an hundred years old. Now that it must be translated rather <hi>that,</hi> then <hi>for,</hi> and so make no Death at all to the Godly, in this time of the <hi>New Jerusalem,</hi> I shall make it out plainly by other Scriptures, as <hi>Rev.</hi> 21.4. where speaking of the <hi>New Jerusalem, John</hi> tells us, That God shall there <hi>wipe away all tears from their Eyes,</hi> and there shall be <hi>no more death, neither sorrow nor crying, neither shall there be any more pain; for the former things are passed away:</hi> And in Vers. 5. He that sat upon the Throne said, <hi>Behold I make all things new; and he said unto me, Write; for these things are true and faithful.</hi> Thus we see because men would hardly be brought on to believe this point,
+<pb n="13" facs="tcp:192279:9"/> the Lord useth an expression more then ordinary to <hi>John,</hi> when he saith, <hi>These things are true and faithful.</hi>
+            </p>
+            <p>And in <hi>Rev.</hi> 22.6. speaking of the <hi>New Jerusalem,</hi> he saith there again, That <hi>those things are faithful and true, and were shortly to be ful<g ref="char:EOLhyphen"/>filled.</hi> Now if any shall object, That those things spoken of there of the <hi>New Jerusalem,</hi> must be in Heaven: Then they must grant that they must build Houses and plant Vinyards in Heaven, as ap<g ref="char:EOLhyphen"/>pears in <hi>Isa.</hi> 65.21. which I think none will yeild unto. Again, in the <hi>New Jerusalem, the Woolf shall dwell with the Lamb, and the Leo<g ref="char:EOLhyphen"/>pard shall lie with the Kid; and the Calf, and the Lion, and the fat Beast together, and a little Child shall lead them,</hi> as it is in <hi>Isa.</hi> 11.6. and Ver. 9. <hi>None shall destroy in all the Mountain of my Holiness; for the Earth shall be full of the Knowledge of the Lord, as the Waters cover the Sea.</hi> Certainly in this <hi>New Jerusalem</hi> all that enmity that was in the Creatures one against another, and against Man, which came in by Sin, shall all be taken away, so that Man shall be loving to the Creature, and the Creature shall be loving to Man. In the <hi>New Jerusalem</hi> the Lord shall be King over all the Earth: <hi>In that day there shall be one Lord, and his Name shall be one,</hi> as in <hi>Zech.</hi> 14.9. Then, as <hi>Beza</hi> speaks on these words, <hi>All Idolatry and Superstition shall be abolished, and there shall be one God, one Faith, and one Religion.</hi> And therefore these Gospel-times we now live in, cannot be the <hi>New Jerusalem,</hi> spoken of in <hi>Isa.</hi> 65. and quoted by <hi>Peter:</hi> for that is a time <hi>when the Creatures shall be delivered from the Bondage of Corruption into the glorious Liberty of the Sons of God;</hi> which they are not now: That is a time <hi>when the Saints shall learn War no more;</hi> which is not now in these days: for before this <hi>New Jerusalem</hi> come, there must be such troubles as never was upon the face of the Earth, for it is said in <hi>Dan.</hi> 7.21. That <hi>the little Horn made War with the Saints, and prevailed against them;</hi> and if ye ask how long? he tells you in Vers. 22. <hi>Ʋntil the Ancient of Days came, and Judgement was given to the Saints of the most High; and the time came that the Saints possessed the Kingdom;</hi> and then, as in Vers. 26. <hi>The Judgement shall sit, and they shall take away his Dominion to consume and destroy it to the the end.</hi> God shall then so destroy this little Horn, that it shall ne<g ref="char:EOLhyphen"/>ver rise again. And then, as in Vers. 27. <hi>The Kingdom and Domi<g ref="char:EOLhyphen"/>nion, and greatness of the Kingdom under the whole Heaven, shall be gi<g ref="char:EOLhyphen"/>ven to the People of the Saints of the most High, whose Kingdom is an everlasting Kingdom, and all Dominions shall serve and obey him.</hi> And in <hi>Dan.</hi> 7.13. <hi>I saw,</hi> saith he, <hi>in the night Visions, and behold one like
+<pb n="14" facs="tcp:192279:10"/> the Son of man came with the Clouds of Heaven, and came to the Anci<g ref="char:EOLhyphen"/>ent of Days, and they brought him near before him:</hi> And, as in Vers. 14. <hi>There was given him Dominion, and Glory, and a Kingdom, that all People, Nations and Languages should serve him.</hi> And at that time, as in <hi>Dan.</hi> 12.1. when <hi>Michael</hi> shall stand up, <hi>&amp;c. thy People shall be delivered, every one that shall be found written in the Book:</hi> By <hi>thy People</hi> here, is meant the <hi>Jews,</hi> as some conceive: So that when Christ appears to them for their Conversion, and for the delivering of them, then the <hi>Jews</hi> and <hi>Gentiles</hi> together, shall make the most glorious Church that ever was upon the face of the Earth; it shall indeed be a new Creation: <hi>Behold,</hi> saith the Lord, <hi>I make all things new,</hi> Rev. 21.5. <hi>I saw</hi> (saith <hi>John,</hi> in <hi>Rev.</hi> 17.11, &amp;c.) <hi>Heaven open<g ref="char:EOLhyphen"/>ed, and behold a white Horse, and he that sat upon him was called Faith<g ref="char:EOLhyphen"/>ful and True, and in righteousness he doth judge and make War; his Eyes were as a flame of fire, and on his Head were many Crowns, and he had a Name written, that no man knew but himself; and he was cloathed in a Vesture dyed in Blood, and his Name is called, THE WORD OF GOD: and the Armies which were in Heaven followed him upon white Horses, cloathed in fine linnen, white and clean; and out of his mouth goeth a sharp Sword, that with it he should smite the Nations, and he shall rule them with a rod of Iron: and he treadeth the wine-press of the fierceness and wrath of Almighty God: And he hath on his Vesture, and on his thigh a Name written, KING OF KINGS, AND LORD OF LORDS: And I saw an Angel stand in the Sun, and he cryed with a loud voice, saying to all the Fowls that fly in the midst of Heaven, Come and gather your selves together unto the Supper of the great God, that ye may eat the flesh of Kings, and the flesh of Captains, and the flesh of mighty Men, and the flesh of Horses, and of them that sit on them, and the flesh of all men, both free and bound, both small and great. And I saw the Beast, and the Kings of the Earth, and their Armies gathered together, to make war against him that sat on the Horse, and against his Armies: and the Beast was taken, and with him the false Prophet that wrought mira<g ref="char:EOLhyphen"/>cles before him, with which he deceived them that had received the mark of the Beast, and them that worshipped his Image: these both were cast into the Lake of Fire burning with Brimstone, and the Remnant were slain with the Sword of him that sat upon the Horse, which Sword proceeded out of his Mouth: And all the Fowls were filled with their Flesh.</hi> According to that in <hi>Luk.</hi> 19.27. <hi>Those mine Enemies which would not that I should reign over them, bring hither, and slay them be<g ref="char:EOLhyphen"/>fore me.</hi>
+            </p>
+            <pb n="15" facs="tcp:192279:10"/>
+            <p>Now before this great Restitution of all things, we must expect Christs second coming, before which Antichrist will never utterly be destroyed, according to that in 2 <hi>Thess.</hi> 2.8. where it is said, <hi>He will destroy him with the brightness of his coming;</hi> that is, by his Personal Appearing, according to that in <hi>Dan.</hi> 7.21. where it is said, <hi>The Little Horn made War with the Saints, and prevailed against them;</hi> and if you demand how long, he tells you in the next verse, <hi>till the An<g ref="char:EOLhyphen"/>cient of Days came, and Judgement was given to the Saints of the most High; and the time came that the Saints possessed the Kingdom.</hi> Now by <hi>Ancient of Days</hi> here, I understand Christ himself; and then as in 2 <hi>Thess.</hi> 2.1. the Saints shall be gathered together unto him, ac<g ref="char:EOLhyphen"/>cording to that in <hi>Mat.</hi> 24.31. <hi>He shall send his Angels with a great sound of a Trumpet, and they shall gather together his Elect from the four-winds, from one end of the Heaven to the other;</hi> and then shall be that great Battel, whereof we read in <hi>Rev.</hi> 19.11. and so on to the end of the Chapter; suitable to that great Battel of <hi>Armageddon,</hi> where<g ref="char:EOLhyphen"/>of we read in <hi>Rev.</hi> 16.16. where it is said, <hi>He gathered them toge<g ref="char:EOLhyphen"/>ther into a place called in the Hebrew tongue Armageddon,</hi> where Christ will appear with <hi>dyed Garments,</hi> as in <hi>Isa.</hi> 63.1. or with <hi>a Vesture dipt in Blood,</hi> as in <hi>Rev.</hi> 19.13. or with <hi>Blood sprinkled upon his Gar<g ref="char:EOLhyphen"/>ments,</hi> as in <hi>Isa.</hi> 63.3. for saith he, <hi>I will tread them in mine anger, and trample them in my fury, and their Blood shall be sprinkled upon my Garments, and I will stain all my Rayment:</hi> for, as in Vers. 4. <hi>The Day of Vengeance is in mine heart, and the year of my Redeemed is come. Then</hi> (as in <hi>Zech.</hi> 14.3.) <hi>shall the Lord go forth, and fight a<g ref="char:EOLhyphen"/>gainst those Nations, as he fought in the day of Battel:</hi> and Vers. 4. <hi>His feet shall stand in that day upon the Mount of Olives, which is before Je<g ref="char:EOLhyphen"/>rusalem on the east:</hi> and, as in Vers. 9. <hi>Then the Lord shall be King over all the Earth; In that day there shall be one Lord, and his Name one:</hi> and, as in Vers. 20. <hi>In that day there shall be upon the Bells of the Horses, HOLINESS ƲNTO THE LORD; and the Pots in the Lords House shall be like the Bowls before the Altar; yea every Pot in Jerusalem and in Judah, shall be Holiness to the Lord of Hosts.</hi>
+            </p>
+            <p>Mr. <hi>Tillinghast</hi> saith, That Christ will personally appear at the Battel of <hi>Armageddon: Behold I come as a Thief;</hi> and this, saith he, is his Personal Coming. Secondly, Christ shall personally appear at the time of the Kingdoms restoring to <hi>Israel.</hi> The coming of the Jews, saith he, must be between the sixth and the seventh Vi<g ref="char:EOLhyphen"/>als, immediately or instantly upon the pouring forth of the seventh Vial, when the Voice comes from the Throne, <hi>It is done,</hi> Rev. 16.
+<pb n="16" facs="tcp:192279:11"/> 17. that is, as appears in Chap. 21.5, 6. <hi>All things are made new: He that sat upon the Throne said, Behold, I make all things new:</hi> and then in Vers. 6. <hi>He,</hi> (that is, He that sat upon the Throne still) <hi>said unto me, It is done;</hi> one phrase expounding the other. Therefore Christs Personal Coming must be before the New Heavens and Earth. So <hi>Isa.</hi> 66.15, 16.</p>
+            <p>Again, This second personal coming of Christ, saith he, is an Article of our Christian Faith; for there is but two comings of Christ, one in which he <hi>bare our Sins;</hi> the other in which he shall <hi>appear without Sin unto Salvation,</hi> Heb. 9.28. And indeed that com<g ref="char:EOLhyphen"/>ing which Good Men look upon to be at the General Judgment, doth most exactly agree to that which is recorded of his coming, <hi>Rev.</hi> 19.7, 8, 9. as it shall be comfortable to all his Elect, so it shall be dreadful to his Enemies: as he will come as a Bridegroom to all his, so he will come in flaming fire to render Vengeance to all those that disobey the Gospel; as <hi>Isa.</hi> 63.4. <hi>The day of Vengeance is in mine heart:</hi> and Vers. 6. <hi>I will tread down the People in my anger, and make them drunk with my Fury:</hi> and Chap. 66.15. <hi>The Lord will come with Fire, and with his Chariots, as with a Whirl-Wind, to rend<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r his Anger with fury, and his Rebukes with Flames of Fire:</hi> and <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Vers. 16. <hi>For by Fire, and by his Sword, will the Lord plead with a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Flesh.</hi> And so <hi>Joel</hi> 3.16. <hi>Mal.</hi> 3.2. <hi>&amp;</hi> 4.1.</p>
+            <p>While men look onely for a glorious and a spiritual Appearance of Christ, and never think of his Personal Appearance; this is one Reason why this day of Christ will take them unawares: <hi>For I will come,</hi> saith Christ, <hi>in an hour you think not on,</hi> Mat. 24.44. and so in <hi>Luk.</hi> 17.26, 27. <hi>As it was in the days of Noah, so shall it be in the days of the Son of man; they ate and drank, and married, and gave in mar<g ref="char:EOLhyphen"/>riage, unto the day that Noah entred into the Ark, and the Flood came and destroyed them all:</hi> and so in Vers. 28. <hi>As it was in the days of Lot, they ate, they drank, they sold, they planted, they builded; but the same day that Lot went out of Sodom, it rained Fire and Brimstone from Hea<g ref="char:EOLhyphen"/>ven, and destroyed them all: Even thus,</hi> and so, <hi>shall it be, in the day when the Son of man is revealed.</hi> Thus <hi>Christ</hi> will come as a Th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the Night, that when men shall cry peace and safety, then shall come upon them sudden destruction.</p>
+            <p>When Christ appears Personally, there shall be such troubles as never was upon the Earth, <hi>Dan.</hi> 12.1. <hi>&amp; Zech.</hi> 14.2. <hi>I will gather all Nations against Jerusalem to Battel, and the City shall be taken, and the Houses rifled, and the Women ravished, and half of the City go forth
+<pb n="17" facs="tcp:192279:11"/> into Captivity, and the residue of the People shall not be cut off from the City.</hi> Vers. 3. <hi>Then shall the Lord go forth and fight against those Na<g ref="char:EOLhyphen"/>tions:</hi> Vers. 4. <hi>And his feet shall stand that day upon Mount Olives:</hi> Vers. 5. <hi>And the Lord my God shall come, and all the Saints with him.</hi> Thus we see, as in <hi>Dan.</hi> 7.21, 22. <hi>The Little Horn,</hi> which <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the Papal Power, <hi>made war with the Saints, and prevailed against them,</hi> till Christ appeared for the delivering of them: But when they made War with the Lamb, as in <hi>Rev.</hi> 17.14. <hi>The Lamb overcame them, for He is Lord of Lords, and King of Kings; and they that are with him are Called, Chosen, and Faithful.</hi> Thus we see the Church shall never be delivered from all her troubles, till Christ appear in the Clouds for the Restitution of all things. <hi>In this World,</hi> saith Christ, <hi>ye shall have tribulation:</hi> And, <hi>I leave you as Sheep among Wolves:</hi> But in the World to come, which is this new Heaven and new Earth, which <hi>Peter</hi> speaks of, there all tears shall be wiped from their Eyes, as in <hi>Rev.</hi> 21.4. <hi>And there shall be no more Death, nor Sorrow, nor Crying, neither shall there be any more Pain, for the former things are passed away.</hi> And so in <hi>Isa</hi> 65.17, 18, 19. <hi>Behold, I create new Heavens, and a new Earth, and the former shall not be remem<g ref="char:EOLhyphen"/>bred, nor come into Mind: But be you glad and rejoyce for ever in that which I create, for behold I create Jerusalem a Rejoycing, and her People a Joy; I rejoyce in Jerusalem, and joy in my People; and the Voice of Weeping shall no more be heard in her, nor the Voice of Crying.</hi>
+            </p>
+            <p>Yea, but you will say, This must be in Heaven.</p>
+            <p>I grant you, it is a Heaven upon Earth, the presence of Christ makes it so; but it is not that <hi>Empyrean</hi> highest Heaven, into which the Saints shall be translated after the ultimate Day of Judgement: for as in Vers. 21. <hi>They shall build Houses, and inhabit them, and plant Vineyards, and eat the fruit of them;</hi> which will not be suitable to glo<g ref="char:EOLhyphen"/>rified Bodies in the highest Heaven, either to build, or pla<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, or eat.</p>
+            <p>And therefore it must be such a state of a Church here upon Earth, as <hi>Adam</hi>'s before his fall, and much better; because they shall have no Devil to tempt them all that Thousand Years. But after that Thousand Years, Satan shall be let loose for a little season, and then he shall have power to tempt all; both those that stand by the Covenant of Nature, as <hi>Adam</hi> did, and also those that stand by the Covenant of Grace: But he shall prevail onely against those that stand by the Covenant of Nature, that fall off from that Covenant. But for those that stand by the Covenant of Grace, he can no more prevail against them, then he prevailed against Christ himself,
+<pb n="18" facs="tcp:192279:12"/> while he was here upon the Earth. And from all those that fall off upon Satans Temptations,<note place="margin">See Doctor <hi>Holmes</hi>
+               </note> who stand by the Covenant of Nature, shall arise <hi>Gog</hi> and <hi>Magog, who shall compass about the Tents of the Saints, and the beloved City, and shall think to destroy them,</hi> Rev. 20.9. and then, as it is in the Text, <hi>Fire comes down from Heaven, and shall utterly destroy them:</hi> and then, as it is in <hi>Rev.</hi> 20.10. <hi>The Devil that deceived them, was cast into the Lake of Fire and Brimstone, where the Beast and the false Prophet are, and shall be tormented day and night for ever and ever.</hi> And this is the ultimate day of Judgement, as we may see from <hi>Rev.</hi> 20.11. to the end of the Chapter; and this produceth the final Conclusion of this great Day: For now the Lord is seated in his great white Throne, <hi>Rev.</hi> 20.11, 12. before whom the Earth and the Heavens vanish; and then shall the Dead, both small and great, be raised, and stand before his great Tribunal, at his left hand as so many Goats,<note place="margin">
+                  <hi>Mat.</hi> 25.33.</note> Vessels of wrath, fitted to Destruction, where they shall receive the final Sentence of Eternal Condemna<g ref="char:EOLhyphen"/>tion. But the Saints are long since acquitted by vertue of their Marriage-Union with Christ, who now presents his Spouse pure and spotless,<note place="margin">
+                  <hi>Ephes.</hi> 5.27.</note> a glorious Church, not having spot or wrinkle, or any such thing.<note place="margin">1 <hi>Cor.</hi> 24.28.</note> And so having also justified them before Angels and Men,<note place="margin">1 <hi>John</hi> 3.2.</note> he makes a free Surrender of his Mediatorship, with his pur<g ref="char:EOLhyphen"/>chased Spouse, into the hands of his and our Father. And thus we come to know the Love of Christ,<note place="margin">1 <hi>Cor.</hi> 13.12.</note> which passeth Knowledge, as <hi>Paul</hi> speaks, <hi>Ephes.</hi> 3.19. and to be filled with all the fulness of GOD.</p>
+         </div>
+         <div type="poem">
+            <head>More <hi>VERSES</hi> Concerning the same <hi>SUBJECT.</hi>
+            </head>
+            <byline>
+               <hi>By</hi> T. T.</byline>
+            <lg>
+               <l>COme <hi>Sions</hi> Sons, with <hi>Sions</hi> Songs,</l>
+               <l>Attend your Royal King:</l>
+               <l>Joyn Consort in Coelestial Throngs,</l>
+               <l>His wondrous Reign to sing.</l>
+            </lg>
+            <lg>
+               <pb n="19" facs="tcp:192279:12"/>
+               <l>Heark, Virgins; that's the Midnight-Cry;</l>
+               <l>The Bridegooom is at hand:</l>
+               <l>With Burning Lamps, full Vessels by,</l>
+               <l>Stand, Lovely Virgins, stand.</l>
+            </lg>
+            <lg>
+               <l>That's He who with ten thousand Saints</l>
+               <l>In those bright Clouds appears:</l>
+               <l>We joyn to cease all sad Complaints;</l>
+               <l>All Troubles, Toyl, and Tears.</l>
+            </lg>
+            <lg>
+               <l>Now, like his Glorious Body, We</l>
+               <l>Shall all be fashioned;</l>
+               <l>With Robes and Crowns of Majesty,</l>
+               <l>As Kings, be furnished.</l>
+            </lg>
+            <lg>
+               <l>Thus to <hi>Jehosaphat's</hi> fair Vale,</l>
+               <l>We with our King descend,</l>
+               <l>Where vanquish'd Foes, faint, feeble, pale,</l>
+               <l>Shall at his Throne attend.</l>
+            </lg>
+            <lg>
+               <l>The Day is come, the Lord must Reign,</l>
+               <l>The Saints must judge the World:</l>
+               <l>Satan confin'd, his cursed Train</l>
+               <l>Into confusion hurl'd.</l>
+            </lg>
+            <lg>
+               <l>The groaning Creature, from that snare</l>
+               <l>Which long entangled them,</l>
+               <l>Set free, with Saints in Glory share,</l>
+               <l>Of <hi>NEW JERUSALEM.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>These sweet refreshing Times, O Lord,</l>
+               <l>From thy sweet Presence spring:</l>
+               <l>With Hearts and Voices Saints accord,</l>
+               <l>Thy Glorious Reign to sing.</l>
+            </lg>
+         </div>
+         <div type="text">
+            <pb n="20" facs="tcp:192279:13"/>
+            <head>Collections from Doctor <hi>Holmes,</hi> and some others, for the further Confirma<g ref="char:EOLhyphen"/>tion of this Point, of Christs Personal Reign here upon Earth.</head>
+            <p>DR. <hi>Holmes</hi> tells us, That Millenarism is no Heresie nor Error against the least point of Scripture-Religion.</p>
+            <p>Also he saith, That the general Council at <hi>Nice</hi> called by <hi>Constan<g ref="char:EOLhyphen"/>tine</hi> the Great, were of this Opinion: and since that, our National Catechism set forth in the time of King <hi>Edward</hi> the Sixth.</p>
+            <p>And that in the first six Centuries for six hundred years after Christ, many of the eminentest Fathers for Piety and Learning, and some of them for Martyrdom also, were for it.</p>
+            <p>First, <hi>Justin Martyr</hi> himself was of this Opinion, and assures us that most of the good Christians in his time were for it.</p>
+            <p>Secondly, <hi>Irenaeus</hi> was a Millenary.</p>
+            <p>Thirdly, <hi>Tertullian.</hi>
+            </p>
+            <p>Fourthly, <hi>Cyprian.</hi>
+            </p>
+            <p>Fifthly, <hi>Origen.</hi>
+            </p>
+            <p>Sixthly, <hi>Methodius.</hi>
+            </p>
+            <p>Seventhly, <hi>Paulinus</hi> and <hi>Vitellius.</hi>
+            </p>
+            <p>And he saith, That <hi>Chiliasm</hi> is not onely embraced by Jews, but also by learned Christians.</p>
+            <p>
+               <hi>Origen</hi> saith, That Philosophers out of their School say, That af<g ref="char:EOLhyphen"/>ter certain Revolutions of Ages, there will be a burning of the Uni<g ref="char:EOLhyphen"/>verse, and after that a forming of it, which shall have all the same things.</p>
+            <p>This received opinion of the thousand years Kingdom, was the general opinion of all Orthodox Christians in the Age following the Apostles, if <hi>Justin Martin</hi> say true; and none known to deny it then but Hereticks, which deny the Resurrection, and held that the God of <hi>Abraham, Isaac</hi> and <hi>Jacob,</hi> was not the Father of our Lord Jesus Christ.</p>
+            <pb n="21" facs="tcp:192279:13"/>
+            <p>And though <hi>Jerom</hi> was against this opinion, yet he saith, he durst not damp it, because so many of the Eclesiastical men &amp; Mar<g ref="char:EOLhyphen"/>tyrs said the same things.</p>
+            <p>This was the opinion of the whole Orthodox Church in the Age immediately following the death of St. <hi>John,</hi> when yet <hi>Policarp,</hi> and many of the Apostles Disciples were living, as <hi>Justin Martyr</hi> expresly affirms. And therefore, it is to be admired, saith Mr. <hi>Mede,</hi> that an opinion once so generally received in the Church, should ever have beene so cryed downe and buried</p>
+            <p>
+               <hi>Irenaeus</hi> tells us, when Antichrist reigning three years and six months, shall have wasted all things in the world, <hi>&amp;c.</hi> then shall the Lord come from heaven in the Clouds, in the glory of his Father, casting Antichrist, and they that obey Antichrist, into the Lake of Fire; but bringing to the Just the time of the Kingdom, that is the rest, that is the Sabbath, the seventh day sanctified, and restoring to <hi>Abraham</hi> the promise of the Inheritance.</p>
+            <p>And <hi>Methodus</hi> tels us, that it is to be expected that the Creation shall suffer a vehement commotion, as if it were about to dye at the Conflagration, whereby it shall be renovated, and not perish; to the end that we renovated may dwell in the renovated world free from sorrow, according to that in <hi>Psal.</hi> 104. <hi>Thou wilt send forth thy Spirit, and they shall be created, and thou wilt renew the face of the Earth, &amp;c.</hi>
+            </p>
+            <p>Mr. <hi>Byfield</hi> before his death was of this Millenary Judgment, as Dr. <hi>Holmes</hi> tels us</p>
+            <p>In the times of the <hi>Arians</hi> persecution, soone after <hi>Constantines</hi> time, saith Dr. <hi>Holmes,</hi> the present Truth was to assert the Deity of <hi>Christ.</hi>
+            </p>
+            <p>In <hi>Luther</hi>'s time, at the beginning of our <hi>Henry</hi> the Eighth, the satisfaction of Christ, apprehended by Faith, as the full ground of Justification, was the present Truth to be asserted.</p>
+            <p>And now Christs pure Worship, and Christs glorious Kingdom, which inseparably concur, are the Truths now to be asserted.</p>
+            <p>Dr. <hi>Alstead</hi> a German, quoted by Dr. <hi>Holmes,</hi> tells us that it was the constant opinion of the Church in the very next Age to the Apo<g ref="char:EOLhyphen"/>stles, that there should be a Resurrection before the general rising at the last day, and a happy condition of the Faithful upon Earth, for a thousand years. And saith he, The general consent of all the Orthodox in the Age next after the Apostles, is no small Argument against the contrary Opinion of succeeding Ages.</p>
+            <pb n="22" facs="tcp:192279:14"/>
+            <p>It seems, saith he, the Hereticks of those times believed it not, and that for some private respect; because in admitting thereof, they must needs also confess a Resurrection of the Flesh; and that the same God that is mentioned in the Law and the Prophets, is the Father of our Lord Jesus Christ.</p>
+            <p>Many Interpreters, saith Doctor <hi>Twiss,</hi> alluding to <hi>Prov.</hi> 31.29. have done excellently, but Mr. <hi>Mede</hi> surmounts them all: He hath many notions of so rare a nature, saith he, that I do not find that he is beholding to any other for them, but onely to his own studious<g ref="char:EOLhyphen"/>ness, under Gods blessing.</p>
+            <p>In regard it is so punctually held forth, saith <hi>Dr. Holmes,</hi> in <hi>Rev.</hi> 20. that at the end of the Thousand Years all the Wicked formerly deceased, lived again personally and properly, Soul and Body, be<g ref="char:EOLhyphen"/>ing re-united; I for my part, saith he, cannot infer less, that the mean while in the said Thousand Years, the Saints should live per<g ref="char:EOLhyphen"/>sonally and properly in Soul and Body, gloriously re-united on the Earth.</p>
+            <p>Mr. <hi>Davenport</hi> of <hi>New-Haven,</hi> in his Sermon upon <hi>Mat.</hi> 24.30. tells us, That the personal coming of Christ to Judgement, shall be visible and glorious, and long before the end of the World.</p>
+            <p>And the means, he saith, whereby he will set up this Kingdom of his, is not by men raising tumults against Government in Kingdoms and Commonwealths formerly established, but by his own personal appearing: The Armies that are in Heaven, saith he, <hi>follow</hi> Christ, <hi>Rev.</hi> 19.14. they do not go <hi>before</hi> him.</p>
+            <p>Mr. <hi>Sterry</hi> tells us, in his Epistle to Dr. <hi>Holmes</hi> his first Book, <hi>That the subject there spoken of, which is the Reign of our Saviour with his Saints on Earth, is of a transcendent Glory in its self, of uni<g ref="char:EOLhyphen"/>versal Consequence to all Persons and States, of very great seasonableness for the present times: Like unto a piece of rich Coyn, it hath been buri<g ref="char:EOLhyphen"/>ed in the Earth; but of late days digged up again, it begins to grow brigh<g ref="char:EOLhyphen"/>ter with handling, and to pass currant with great numbers of Saints, and learned men of great Authority. And</hi> (saith he) <hi>there shall be a new Earth to be the seat of this new Kingdom: And if the Earth</hi> (saith he) <hi>be made new with the newness of the Spirit, if that also be spiritualized, then will it be fit for glorified Inhabitants. The Streets of the New</hi> Je<g ref="char:EOLhyphen"/>rusalem (saith he) <hi>are said to be as Gold and Glass; Behold the nature of the new Earth, and the description of its spirituality: It shall be as pure Gold for its solid simple substance, for its shining glory; It shall be as pure Glass, for its transparency, clearness, and thorow lightsomness.</hi>
+            </p>
+            <pb n="23" facs="tcp:192279:14"/>
+            <p>Mr. <hi>Caryl,</hi> in his Epistle to the same Book, speaks thus: <hi>That all the Saints shall reign with Christ a thousand years on Earth, in a wonder<g ref="char:EOLhyphen"/>ful, both visible and spiritual, glorious manner, before the time of the ul<g ref="char:EOLhyphen"/>timate and general Resurrection, is a Position, that not a few have haesitated about, and some opposed, yet hath gained ground in the Hearts and Judgements of very many both grave and godly men, who have left us divers Essays and Discoveries upon this subject. And having perused the Learned and Laborious Travels of this Author; I conceive</hi> (saith he) <hi>that the Church of God hath not hitherto seen this great Point so clearly stated, so largely discussed, so strongly confirmed, not onely by the Testimo<g ref="char:EOLhyphen"/>ny of ancient &amp; modern Writers of all sorts, but by holy Scriptures through<g ref="char:EOLhyphen"/>out, as it is presented in this Book. And therefore judge this Book very useful for the Saints, and worthy of the Publick View.</hi>
+            </p>
+            <p>When Christ shall come to Judgement with all his Saints and Angels, for the Restitution of all things, a Thousand Years before the ultimate day of Judgement, I do not conceive that he will be all that while upon Earth, because we read of the Angels ascend<g ref="char:EOLhyphen"/>ing and descending upon the Son of Man. It is most probable (saith Mr. <hi>Bolton</hi>) that the Heavens and Earth in common, shall at last be the Sea of Bliss: So that I conceive that Christ, and all his raised Saints, together with his holy Angels, may ascend from Earth to Heaven, and descend from Heaven to Earth, and that very sudden<g ref="char:EOLhyphen"/>ly in a short time; and yet Christ may be said to reign a Thousand Years upon the Earth, because he takes possession of the Earth for a Thousand Years before the ultimate day of Judgement, according as we read in <hi>Psal.</hi> 2. <hi>I will give thee the Heathen for thine Inheritance, and the utmost parts of the Earth for thy possession:</hi> So that though he be not all the while upon Earth, yet he takes possession of it for himself and his Saints, for a thousand years; and after the thousand years, delivers up all into his Fathers hands, that God may be all in all, as we read in 1 <hi>Cor.</hi> 15.</p>
+            <p>As Christ after he rose again from the dead, and remained upon the Earth forty days after his Resurrection, <hi>Act.</hi> 1.3. did eat broyled Fish, &amp; a piece of an Honey-Comb, <hi>Luk.</hi> 24.32. not out of any need he had to eat, but to shew himself true man; so when he tells his Disciples, when he takes his leave of them, <hi>Mat.</hi> 26.29. That he <hi>will not henceforth drink of the Fruit of the Vine, till he drink it new with them in his Fathers Kingdom;</hi> that is, in that Kingdom that was given unto him of his Father: This is, I say, to shew unto all the World, that he will at his second coming, when he comes to Judg<g ref="char:EOLhyphen"/>ment,
+<pb n="24" facs="tcp:192279:15"/> accompanied with all his Saints and Angels, for the Restitu<g ref="char:EOLhyphen"/>tion of all things, appear corporeally in his humane Nature, which he will manifest by his drinking of new Wine with them, as he did by his eating broyled Fish, and a piece of an Honey-Comb with them, when he rose from the dead.</p>
+            <p>This Scripture is alleadged by Mr. <hi>Burroughs,</hi> to prove the appea<g ref="char:EOLhyphen"/>rance of Christ personally, at the thousand years. It is true, saith he, this place is usually interpreted in a mystical sense, but there is no reason why we may not take it in a literal. And a little before, he saith, It is a good Rule, That all Scripture should be under<g ref="char:EOLhyphen"/>stood literally, unless it make against the coherence of the Text, or against some other Scripture: It may be some may think, that com<g ref="char:EOLhyphen"/>monly this place is understood of Christ conversing with his Disci<g ref="char:EOLhyphen"/>ples after his Resurrection, saith he, but not so commonly: for the most renowned <hi>Calvin, Mallorat, Grotius,</hi> &amp;c. are against that. See <hi>Piscator</hi> on <hi>Mat.</hi> 26.</p>
+            <p>Mr. <hi>Archer</hi> tells us, That Papal Power must be over all <hi>Europe,</hi> before the Witnesses be slain.</p>
+            <p>And secondly, When <hi>Rome</hi> is ruinated, she shall be most secure, <hi>Rev.</hi> 18.7. that is, none of her Kingdoms shall be rent from her, but she shall be in her full strength: therefore it is said, Vers. 8. <hi>Strong is the Lord:</hi> She being in perfect strength, God shews his strength in her ruine.</p>
+            <p>Antichrist (saith he) shall go on to slay the Witnesses, and finish it; which being done, before he can triumph four years, the Wit<g ref="char:EOLhyphen"/>nesses shall be raised up, and one of the ten Kingdoms fall off from him, and ruine the City of <hi>Rome;</hi> and this will be a general good to <hi>Europe.</hi> But yet the Papacy shall breathe, and by degrees get Head, and joyn with the <hi>Turk,</hi> and <hi>Tartar,</hi> and the <hi>Christians</hi> in <hi>Europe:</hi> But from this danger will Christ save all Christians by his coming, and setting up his Kingdom.</p>
+            <p>Now what use should we make of this Doctrine of <hi>Christs King<g ref="char:EOLhyphen"/>dom,</hi> saith Mr. <hi>Archer?</hi> First (saith he) we are to look for it, and therefore we should know it, for there can be no expectation of things unknown; and to long for it, and so to hasten to it in our desires and fervent affections, 2 <hi>Pet.</hi> 3.12. for though we cannot ha<g ref="char:EOLhyphen"/>sten its time to come to us, yet we may hasten to it, by our longing for its coming. And there is no loss by such love of Christs appearing; for to them that love it, he will give, when he comes, a Crown of Righteousness, 2 <hi>Tim.</hi> 4.8. And surely they that most
+<pb n="25" facs="tcp:192279:15"/> love and long for it, shall speed best at it; and therefore it is pity that this Doctrine of Christs Kingdom is no more studied, saith he.</p>
+            <p>This Doctrine of Christs Kingdom, he tells us, is a special and practical Truth, and was a chief meditation of all the Prophets; and therefore he saith, Let every Saint search into, and study this Doctrine, for it is our Harvest, and Joy of Gladness; and Christ pardon us our so much neglect of it, hitherto.</p>
+            <div type="part">
+               <head>Certain Prognosticks to shew that this Glorious Estate of the Church, is not far off, as <hi>Dr. Holmes</hi> speaks.</head>
+               <p>First, As when the Might of the Churches Enemies appears uni<g ref="char:EOLhyphen"/>versally and irresistably powerful, then is the Churches great Deli<g ref="char:EOLhyphen"/>verance at hand, <hi>Isa.</hi> 59.16. to the end of the Chapter, and so <hi>Isa.</hi> 60. when there was none to help, then his own Arm should bring Salvation. Now whether at present the Churches Enemies be not universal and irresistable, the Turk prospering mainly, the Popish party prevailing exceedingly, and the rather, because the Protestant Nations are onely busie in beating one another to pieces most sadly?</p>
+               <p>Another Prognostick of the Churches Deliverance, is, When the iniquity of the universality of the Wicked on Earth, shall be full, then shall the universality of the Elect have their grand Deliverance here upon Earth; our Saviour gives this as a sign, in <hi>Mat.</hi> 24. <hi>When iniquity shall abound,</hi> after which the Gospel being preached to all the World, as a Witness unto them, <hi>then shall the end come,</hi> Vers. 9. to 15. And so likewise, when we see strange Signs in the Heavens following great Tribulations upon the Earth, the nearer we may ex<g ref="char:EOLhyphen"/>pect this glorious Estate here upon Earth.</p>
+               <p>Dr. <hi>Holmes</hi> tells us, in his Epistle to his second Book, <hi>That the seven Seals are opened, six of the Trumpets have sounded, four Vials, some say five, are poured out, as Mr.</hi> Cotton <hi>on the Vials; most Compu<g ref="char:EOLhyphen"/>tations that the Learned of this Age have made, are near their period: and there is a general Impression, with much Prayer, on the Hearts of Believers in these Nations; and, as we are inform'd, by these beyond the Seas,</hi> saith he, <hi>that Christs coming is not far off.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of the Time of Christs Coming or Appearance.</head>
+               <p>I conceive that if the Witnesses, the Gentile-Saints, were but raised, if they be raised before Christs personal Appearance, as most
+<pb n="26" facs="tcp:192279:16"/> hold they will; though others hold they will not, as <hi>Mercer</hi> for one: Then I say, if raised before Christs personal appearance for the raising of them, we may know the very year of <hi>Christs</hi> coming to Judgment for the <hi>Restitution</hi> of all things, and for the judging those that are upon the Earth, and delivering the Jews out of all their troubles, a thousand years before the ultimate day of the general Judgement, by the Scriptures alone, without the help of any Chronologer; beyond which time, the day of Judgement cannot be, according to that in <hi>Dan.</hi> 12. though it may be sooner.</p>
+               <p>The Church, we know, was to remain in the Wilderness 1290 days, as appears in <hi>Dan.</hi> 12.11. that is, as Interpreters expound it, 1290 years: Now the Witnesses being once raised, it shews the expiration of those years in the which the Church was to remain in the Wilderness; and that 45 years after, Christ should appear in the Clouds, as you may see; Vers. 12. compared with 13. and therefore in Vers. 12. he saith, <hi>Blessed is he that waiteth, and cometh to the</hi> 1335 <hi>days;</hi> that is years: And why blessed? Because then, as you may see in Vers. 13. <hi>Daniel</hi> must be raised again from the dead, and stand in the end of his Lot; this is the time that <hi>Christ</hi> will appear with all his Saints and Angels, for the judging those that are upon the Earth, for the Conversion of the Jews, and for the bringing in of the fulness of the Gentiles, a thousand years before the ultimate day of the general Judgement: So that though the day and hour of <hi>Christs</hi> coming is kept secret, yet the year is made manifest, beyond which it cannot be, according to <hi>Daniel</hi>'s accompt: Sooner it may be; because our Saviour tells us, in <hi>Mat.</hi> 24. <hi>That for the Elects sake, those days shall be shortned;</hi> to teach us all to watch and pray, and wait continually for the appearing of Jesus <hi>Christ,</hi> lest that day come upon us unawares.</p>
+               <p>God revealed unto <hi>Noah</hi> the year of the destruction of the old World, as we may see in <hi>Gen.</hi> 6.3. where he saith, <hi>That his Spirit shall not always strive with man,</hi> &amp;c. yet his days should be an hun<g ref="char:EOLhyphen"/>dred and twenty years, before the Flood must come upon them. Thus God did forewarn the old World, that if it were possible they might thereby be brought to Repentance; but not taking Warning there<g ref="char:EOLhyphen"/>by, the Flood came upon them, and destroyed them all, but <hi>Noah</hi> and his Family: And this they are willingly ignorant of, as <hi>Peter</hi> tells us, in 2 <hi>Pet.</hi> 3.5.</p>
+               <p>And so 1 <hi>Pet.</hi> 3.20. <hi>The long-suffering of God waited till the Ark was in preparing;</hi> waited and expected their Repentance, which the
+<pb n="27" facs="tcp:192279:16"/> multitude rejected, and so continuing in unbelief, perished in the Flood; They were willingly and wifully ignorant when the World should be destroyed by the Flood, though they knew the very year when the Flood was to come upon the Earth.</p>
+               <p>
+                  <hi>Tillam</hi> tells us, That while the Turk, this Son of Perdition,<note place="margin">
+                     <hi>Dan.</hi> 11.44.</note> is embroyled in fierce Wars, tidings out of the East shall trouble him; that is, the Jews, the Kings of the East, being moved by the Spirit of God to return to their own Land,<note place="margin">
+                     <hi>Ezek.</hi> 39.</note> before whom the great River <hi>Euphrates</hi> is dried up, to make way for them to their ancient Habi<g ref="char:EOLhyphen"/>tation: This News shall so exceedingly amaze them, that now these great Enemies, Turk, Pope, <hi>&amp;c.</hi>
+                  <note place="margin">
+                     <hi>Zech.</hi> 14.2.</note> that have so long kept the Jews in slavery, shall joyn their forces altogether, and go forth with one consent, to destroy with great fury, this poor distressed and unarm<g ref="char:EOLhyphen"/>ed People;<note place="margin">
+                     <hi>Dan.</hi> 11:45.</note> and having now begirt and surrounded them in the ho<g ref="char:EOLhyphen"/>ly Land, with intent to devour them at once, as being now fully in their power: And in the midst of this miserable helpless and hope<g ref="char:EOLhyphen"/>less Condition, up stands <hi>Michael,</hi> the great glorious Prince, dis<g ref="char:EOLhyphen"/>comforts this great and mighty Host, and delivers his distressed an<g ref="char:EOLhyphen"/>cient People out of all their hands; and not onely so, but he also puts such courage into his Peoples Spirits, that they fall upon their Enemies, and obtain a wonderful Victory; all their Oppressors, by this mighty Conquest, being now made their captive Slaves, accor<g ref="char:EOLhyphen"/>ding to Promise. This is that glorious day in which the Lord Je<g ref="char:EOLhyphen"/>sus Christ, by the brightness of this his glorious appearance,<note place="margin">
+                     <hi>Isa.</hi> 14.2.</note> will utterly destroy this Man of Sin.</p>
+               <p>
+                  <hi>Mercer</hi> tells us, <hi>That God will not deliver his People by themselves, in any of those ways that are now practised; but will deliver his People by himself, in some extraordinary manner, at his next appearing, which shall be like Lightning.</hi>
+               </p>
+               <p>Yea, he saith, <hi>That the Lord Jesus will appear most gloriously, to deliver his People by Himself: And this</hi> (he saith) <hi>all the Prophets bare witness unto; as</hi> David, <hi>in Psal.</hi> 50.2. <hi>where speaking of the Lords glorious ap<g ref="char:EOLhyphen"/>pearing, saith,</hi> Out of Sion, the perfection of Beauty, God hath shi<g ref="char:EOLhyphen"/>ned; our God shall come, and shall not keep silence; a fire shall devour before him, and it shall be very tempestuous round about him: <hi>And so in</hi> Psal. 97. <hi>the Prophet saith, speaking of the Glory and Majesty of Christs Kingdom,</hi> The Lord reigneth, let the Earth re<g ref="char:EOLhyphen"/>joyce; let the multitude of the Isles rejoyce thereat: Clouds and Darkness are round about him, Righteousness and Judgement are the Habitation of his Throne; a fire goeth before him, and burn<g ref="char:EOLhyphen"/>eth
+<pb n="28" facs="tcp:192279:17"/> up all his Enemies; his Lightning lightneth the World, the Earth saw and trembled: <hi>And so</hi> Isa. 4.2. <hi>&amp;</hi> 22.22, 23. <hi>&amp;</hi> 63.1, 2, 3. <hi>In all which places of the same Prophet, mention is made of abundance of Glory, at the Lords appearance to deliver his People: So likewise in</hi> Ezek. 43.2. <hi>&amp;</hi> Dan. 7.14. Hos. 6.3. Mich. 4.1, 2, 3. Nahum 1.3. Hab. 3.2, 3. <hi>In all which places there is mention made, that when the Lord appears and restores his People, there will be abundance of Glory: and so</hi> Luk. 17.24. Mat. 24.27, 2 Thess. 2.8. Rev. 14.15. Rev. 14.1. <hi>&amp;</hi> 18.1. <hi>&amp;</hi> 19.11, 12, 13. <hi>In all which places there is mention made of that glorious appearing of the Lord Jesus Christ, when he comes to de<g ref="char:EOLhyphen"/>liver his People; and this glorious appearing of Christ, was made mani<g ref="char:EOLhyphen"/>fest to</hi> Peter, James <hi>and</hi> John, <hi>according to his Promise in</hi> Mat. 16.28. <hi>which was performed unto them in</hi> Mat. 17.2. <hi>when he was transfigured before them; and this was, as I conceive, a glimpse of that Glory that shall be at Christs second appearance, when he will come to deliver all his People out of all their Troubles, and destroy all their Enemies: And this all the Prophets bare witness unto, insomuch that</hi> Balaam, <hi>that false Prophet, speaking of it,</hi> Numb. 24.17, 19. <hi>saith,</hi> There shall come a Star out of Jacob, and a Scepter shall arise out of Israel, and shall smite all the Corners of Moab, and shall destroy all the Children of Seth; out of Jacob shall come he that shall have Dominion, and shall destroy him that remaineth of the City.</p>
+               <p>
+                  <hi>Mercer</hi> tells us, <hi>That the Witnesses are to arise, and stand upon their feet: but the Question is</hi> (saith he) <hi>when this should be? Which I believe</hi> (saith he) <hi>upon examination will appear to be when the Lord ap<g ref="char:EOLhyphen"/>pears from Heaven; which I prove thus: It is said,</hi> Rev. 11.11. And after three days and an half, the Spirit of Life from God entred in<g ref="char:EOLhyphen"/>to them, and they stood upon their feet, and great fear fell upon all that saw them: <hi>Which compared with</hi> Ezek. 37. <hi>&amp;</hi> Rev. 20.5. <hi>will appear to be that Resurrection spoken of in those two places.</hi>
+               </p>
+               <p>
+                  <hi>Besides, Take notice</hi> (saith he) <hi>at the most, this is but the day of small things; and the Church is to increase in Glory, as it is confessed by all: But I find no Text</hi> (saith he) <hi>tending to any increasing condition, before the Lord appear, which will be most sudden, and unexpected.</hi>
+               </p>
+               <p>
+                  <hi>Besides, I pray you mark</hi> (saith he) <hi>the first Anointing was with abun<g ref="char:EOLhyphen"/>dance of success, insomuch that thousands were converted at times; but this is no way comparable to that for Gifts and Graces, neither for power<g ref="char:EOLhyphen"/>ful Conversion, and therefore it falls short of the first Anointing: whereas the latter Glory is prophesied to exceed the former, as is plain from these Scriptures,</hi> Isa. 24.23. <hi>&amp;</hi> 60.20. <hi>&amp;</hi> 66.11. Zech. 12.8. Rev. 14.1. <hi>&amp;</hi> 18.1. <hi>with divers other places.</hi>
+               </p>
+               <pb n="29" facs="tcp:192279:17"/>
+               <p>
+                  <hi>Now where the Lord tells us</hi> (saith he) <hi>in</hi> Ezek. 21.27. <hi>That he will</hi> overturn, overturn, overturn, and it shall be no more,<note place="margin">If Gods own People sin a<g ref="char:EOLhyphen"/>gainst him, <hi>he</hi> will chastise them with the Rods of Men, but his Mercy He will never take from them, <hi>Psalm</hi> 89.30.</note> until He come whose Right it is, and I will give it Him; <hi>He shews plainly</hi> (saith he) <hi>that the Lord will, for the sins of his People, destroy all his own Dispensa<g ref="char:EOLhyphen"/>tions; and it is with a three fold</hi> overturn; <hi>which I expound thus,</hi> saith he; <hi>First, The Lord will overturn his fi<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st Temple built by</hi> Solomon: <hi>Secondly, The Lord will overthrow his second Temple built by</hi> Zerubba<g ref="char:EOLhyphen"/>bel: <hi>And thirdly, The Lord will overthrow that outward Worship that was first set up in Gospel-Order; and all this for the sins of his People: and all this Experience teacheth, if there were no other proof for it in Scripture. And saith the Text,</hi> It shall be no more, until He come whose Right it is, and I will give it Him; <hi>from whence</hi> (saith he) <hi>I conclude, That if God will overturn his own Worships for the Sins of his People, then much more those Worships which are set up by men, without any Scripture-Rule.</hi>
+               </p>
+               <p>In <hi>Isa.</hi> 24. compared with <hi>Jer.</hi> 25. we may see what great desola<g ref="char:EOLhyphen"/>tion God threatens to bring upon all the Inhabitants of the Earth: In <hi>Isa.</hi> 24.1. the Lord tells us, That <hi>He will make the Earth empty and waste, and turn it upside down, and scatter abroad the Inhabitants there<g ref="char:EOLhyphen"/>of: And</hi> (Vers. 2.) <hi>it shall be as with the People, so with the Priest; as with the Servant, so with his Master; as with the Maid, so with her Mi<g ref="char:EOLhyphen"/>stress,</hi> &amp;c.</p>
+               <p>And in Vers. 5. he tells us, <hi>That the Earth is defiled with the Inha<g ref="char:EOLhyphen"/>bitants thereof, because they have transgressed the Laws, changed the Or<g ref="char:EOLhyphen"/>dinance, broken the Everlasting Covenant: Therefore</hi> (saith he in the sixth Verse) <hi>the Curse hath devoured the Earth, and they that dwell therein, are desolate; therefore the Inhabitants of the Earth are burn<g ref="char:EOLhyphen"/>ed, and few men left.</hi> And in Vers. 17. <hi>Fear, and the snare, and the pit are upon thee, O Inhabitant of the Earth:</hi> And in Vers. 19. <hi>The Earth is utterly broken down, the Earth is clean dissolved, the Earth is moved exceedingly:</hi> And in Vers. 23. <hi>Then the Moon shall be confounded, and the Sun ashamed, when the Lord of Hosts shall reign in Mount Zion, and in Jerusalem, and before his Antients gloriously.</hi> Thus we see those great Desolations must come, before the great Deliverance.</p>
+               <p>And in <hi>Jer.</hi> 25.15. Thus saith the Lord God of <hi>Israel</hi> to the Pro<g ref="char:EOLhyphen"/>phet, <hi>Take the Wine-Cup of this fury at my hand, and cause all the Na<g ref="char:EOLhyphen"/>tions to whom I send thee, to drink it: And</hi> (Vers. 16.) <hi>they shall drink, and be moved, and mad, because of the Sword that I will send among them.</hi> And in Vers. 28. <hi>If they refuse to take the Cup at thy hand to drink, then shalt thou say unto them, Thus saith the Lord of Hosts, Ye shall cer<g ref="char:EOLhyphen"/>tainly
+<pb n="30" facs="tcp:192279:18"/> drink.</hi> And in Vers. 29. <hi>Lo I begin to bring evil on the City which is called by my Name, and should ye be utterly unpunished? Ye shall not be unpunished: for I will call for a Sword upon all the Inhabitants of the Earth, saith the Lord of Hosts:</hi> And in Vers. 30. <hi>The Lord shall roar from on high, and utter his Voice from his holy Habitation; he shall give a shout, as they that tread the Grapes, against all the Inhabitants of the Earth:</hi> And in Vers. 33. <hi>The slain of the Lord shall be at that day from one end of the Earth to the other end of the Earth: they shall not be lamented, neither gathered, nor buried, they shall be as dung upon the ground:</hi> And in Vers. 34. <hi>Howl ye Shepherds,</hi> &amp;c. and thus he goes on to the end of the Chapter. By all which we see what great De<g ref="char:EOLhyphen"/>solations there is to come upon the Earth, before the great Restora<g ref="char:EOLhyphen"/>tion of all things.</p>
+               <p>
+                  <hi>Tillam,</hi> speaking of the Seals, Trumpets, and Vials, tells us, That it appears clear to his understanding, that the opening of each Seal,<note place="margin">
+                     <hi>Rev.</hi> 21.2. <hi>John</hi> 14.1, 2. <hi>Rev.</hi> 21.16. <hi>Psal.</hi> 45.14. <hi>Isa.</hi> 65.18. <hi>Ezek.</hi> 14.11.</note> is the discovery of some Gospel-Light, one glorious Truth af<g ref="char:EOLhyphen"/>ter another, as the day approacheth; and no sooner is one Gospel-Truth made known by the secret breathing of the Spirit, according to his Word, but presently the Trumpet sounds; that is, the Mini<g ref="char:EOLhyphen"/>sters of the Gospel publish it abroad, as the Holy Prophet spea<g ref="char:EOLhyphen"/>keth, <hi>The Lord gave the Word, and great was the Company of those that published it,</hi> Psal. 68.11. And thus it was in <hi>Luther</hi>'s time, and <hi>Cal<g ref="char:EOLhyphen"/>vin</hi>'s, and divers after them, who as they received it, became the Lords Trumpets, to declare it to the World; upon whose refusal of it, the Vials are successively poured forth: So that first a Seal is o<g ref="char:EOLhyphen"/>pened, secondly a Trumpet sounds, declaring a Truth, discovered in that opened Roll; thirdly, a Vial of Wrath is poured forth upon those that hear and reject it.</p>
+               <p>And he tells us, from <hi>Rev.</hi> 21.16. That except by clear Scripture it be disproved, he must believe that the City described by S<seg rend="sup">t</seg>
+                  <hi>John;</hi> is a material City, and that the cleaving of the Mount of Olives; producing that wonderful spacious plain (already proved) is to re<g ref="char:EOLhyphen"/>ceive this glorious City of twelve thousand furlongs, or one thou<g ref="char:EOLhyphen"/>sand five hundred miles compass, wherein his Saints shall reign in Glory, with this <hi>Jehovah our Righteousness,</hi> as long as the Sun and Moon endureth.</p>
+               <p>Let the Prophet <hi>Ezekiel,</hi> saith he, decide this Controversie from the Mouth of the Lord, saying, <hi>My Tabernacle also shall be with them▪ yea, I will be their God, and they shall be my People.</hi> This, saith he, is that Royal Palace, into which the Bride with her Virgins
+<pb n="31" facs="tcp:192279:18"/> shall enter to sollace themselves with our King, in unconceivable spiritual delights for ever.</p>
+               <p>
+                  <hi>Mercer</hi> tells us, <hi>That whereas the Prophet</hi> Daniel <hi>in</hi> Chap. 12.11. <hi>speaks of</hi> 1290 <hi>days, and promiseth a Blessing to him that cometh to the</hi> 1335 <hi>days: This I suppose,</hi> saith he, <hi>will be the time when there will be such troubles in the Earth, at the Lords appearing, wherein he shall destroy all his Enemies. But in the number of years I do acknowledge that I cannot bring them to a just sum; for so much as the</hi> 2300 <hi>is not dou<g ref="char:EOLhyphen"/>ble so much as</hi> 1290: <hi>But this thing I shall leave to the all-seeing Pro<g ref="char:EOLhyphen"/>vidence, as all other things are to be left to him. But this, I conceive, is certain, that if we take that Idol of Desolation set up by</hi> Antiochus <hi>in the Temple, to be it, then the</hi> 2300 <hi>years are not yet out; and if we take the Desolation of</hi> Jerusalem <hi>by</hi> Titus, <hi>to be it, then the</hi> 1290 <hi>days, are much past; and if we take the polluting of the Ordinances to be it, then it is not yet fulfilled: However, I must leave it as a secret, touching the time, waiting when the Lord will deliver his People.</hi>
+               </p>
+               <p>
+                  <hi>Tillinghast</hi> tells us, in his <hi>Generation-Work,</hi> That every man is to attend to the Work of the Generation he lives in.</p>
+               <p>
+                  <hi>Noah was a just man, and perfect in his Generation,</hi> Gen. 6.9. And he tells us, That it is an especial Duty lying upon all the Saints, to attend unto, and be active in the work or works of their Generation.</p>
+               <p>
+                  <hi>Noah;</hi> while he was building the Ark, condemned the World, <hi>Heb.</hi> 11.7. He was doing the Work of his Generation.</p>
+               <p>
+                  <hi>Abraham</hi> did the Work of his Generation, while when he left his Country, and his Fathers House to go unto a Land that God should shew him.</p>
+               <p>
+                  <hi>Moses</hi> and <hi>Aaron,</hi> and other faithful ones in their days, did the proper Work of their Generation, while they did look up to God, and trust him for Meat, and Drink, and Rayment, and Preservation, in a barren Wilderness.</p>
+               <p>Thus all along in the times of the Old Testament Gods Church &amp; People in their several Generations, have had their several Works.</p>
+               <p>And let us look to the New-Testament, and <hi>John</hi> did the proper Work of his Generation, which was, to be the Harbinger and Fore-runner of the Messiah; and to exhort the Jews to have their Eyes and Hearts turned from <hi>Moses</hi> towards him and his Administrations, which were now approaching.</p>
+               <p>After him, the Apostles in their time, did the proper Work of their Generation, which was to go forth, and publish the glad ty<g ref="char:EOLhyphen"/>dings of Salvation to all the World, which before was coopt up in the narrow compass of <hi>Judea.</hi>
+               </p>
+               <pb n="32" facs="tcp:192279:19"/>
+               <p>Thus Saints all along from the beginning of the World, in their several Generations, have had their several Works, proper and pe<g ref="char:EOLhyphen"/>culiar to the Generations they have lived in.</p>
+               <p>
+                  <hi>To disobey then the visible Call of a Dispensation</hi> (as Mr. <hi>Tillinghast</hi> saith) <hi>is to disobey a Command of God.</hi>
+               </p>
+               <p>And he tells us, <hi>That Generation-Work of all others, is the greatest Work, and a neglect herein the greatest Sin; and therefore</hi> Samuel <hi>told</hi> Saul, <hi>in</hi> 1 Sam. 15.22. That to obey, is better then sacrifice; and to hearken, is better then the fat of Rams.</p>
+               <p>
+                  <hi>Again, In doing the Work of our Generation, We are most service<g ref="char:EOLhyphen"/>able to the design of God that is on foot in the Age we live in: God was upon a great design to deliver his People out of</hi> Babylon, <hi>and this</hi> Daniel <hi>prays for; thus Gods Design and</hi> Daniels <hi>Obedience meets together: and therefore God sets a special stamp upon</hi> Daniels <hi>Prayer, and calls him a man greatly beloved,</hi> Chap. 9.21, 22, 23.</p>
+               <p>God hath choice distinguishing Mercies for that man that follows him in the Work of his Generation: As first, God will overlook ma<g ref="char:EOLhyphen"/>ny failings in that Man: <hi>Caleb</hi> and <hi>Joshua</hi> were men, and therefore had their failings, as other men; but because <hi>Caleb</hi> and <hi>Joshua</hi> did cleave to God in that special Work they were employ'd in, <hi>Numb.</hi> 14.6, 7, <hi>&amp;c.</hi> which was the Work of their Generation, therefore God overlooking all other faylings, as though they had none at all, pronounced of them, <hi>That they wholly followed the Lord,</hi> Numb. 32.12.</p>
+               <p>God will stand by that man, and never leave him, that sticks close to him in the Work of his Generation: <hi>Abraham</hi> left his Country to attend to the Work of his Generation; and how did God in all perils stand by <hi>Abraham?</hi>
+               </p>
+               <p>Again, God will prove a hiding place for that man against those storms that may fall upon the Generation he lives in, that is active in the Work of his Generation: <hi>Noah</hi> had an Ark prepared for him, when a Flood came upon the World of Ungodly Men.</p>
+               <p>Though <hi>Noah, Daniel,</hi> and <hi>Job,</hi> though active men, living in a perverse, backsliding Generation, cannot ward off Gods blow from the Generation they live in, yet they shall deliver their own Souls, <hi>Ezek.</hi> 14.13. &amp; 40.22. Personal Deliverances do attend such Men, in Common Calamities, and National Desolations.</p>
+               <p>And Dr. <hi>Holmes</hi> tells us, <hi>That the Work of our Generation in these times we now live in, is, To stand for Christs pure Worship, and Christs Glorious Kingdom, which inseparably concur.</hi>
+               </p>
+               <p>Mr. <hi>Brooks</hi> tells us, in his Epistle to his Book of Holiness, <hi>That
+<pb n="33" facs="tcp:192279:19"/> some say that the naked Body of Man was so glorious in his Estate of In<g ref="char:EOLhyphen"/>nocency, that all the Beasts of the Field admired it, and thereupon did homage to him: O how glorious</hi> (saith he) <hi>was his Soul then? Certain<g ref="char:EOLhyphen"/>ly if the Cabinet was so glorious, the Jewels within it were much more glo<g ref="char:EOLhyphen"/>rious. That which makes the Soul glorious, is Holiness; and therefore,</hi> saith Mr. <hi>Brooks, of this I am most certain, That if God will but make</hi> England a <hi>holy Nation, it is not all the Powers on Earth, nor all the Pow<g ref="char:EOLhyphen"/>ers of Hell, that ever shall make</hi> England <hi>a miserable Nation.</hi> The same we may say of <hi>New England.</hi>
+               </p>
+               <p>Now then to conclude all, That we may be delivered out of the hands of our Enemies, let us serve the Lord without fear, as <hi>Za<g ref="char:EOLhyphen"/>chary</hi> and <hi>Elizabeth</hi> did, in Holiness and Righteousness, all the days of our lives; without <hi>slavish fear,</hi> but always with a <hi>filial fear,</hi> fear<g ref="char:EOLhyphen"/>ing to offend so holy a Maiesty: That so when the Lord Jesus ap<g ref="char:EOLhyphen"/>pears, we may be inabled to lift up our Heads with comfort, be<g ref="char:EOLhyphen"/>cause the full accomplishment of our Redemption is come to pass, that we may hear that joyful Sentence pronounced by Christ himself; <hi>Come ye blessed of my Father, and inherit the Kingdom which was prepa<g ref="char:EOLhyphen"/>red for you, from before the foundation of World.</hi> The which Kingdom the Lord hasten, for his Names sake, that those days of sin and sorrow may have an end, according to his own promise, who hath said, that for his Elects sake he will shorten those days: But for <hi>that evil ser<g ref="char:EOLhyphen"/>vant that shall say in his heart, My Lord delays his coming,</hi> Mat. 24.48, 49, 50, 51. <hi>and shall begin to smite his fellow-servants, and to eat, and to drink with the drunken; the Lord of that Servant shall come in a day when he looks not for him, and in an hour that he is not aware of, and shall cut him in sunder, and appoint him his portion with Hypocrites, there shall be weeping, and gnashing of teeth: Watch ye therefore, and pray always, that ye may be accounted worthy to escape those things that shall come upon the World, and to stand before the Son of man: For he that doth these things saith, Behold I come quickly, and my Reward is with me, to give to every man according as his Works shall be. I come as a Thief; blessed is he that watcheth and keepeth his Garments, lest he walk naked, and they see his shame; Even so come Lord Jesus,</hi> accor<g ref="char:EOLhyphen"/>ding to thy Word, which saith, <hi>It is but a little while, and he that shall come will come, and will not tarry,</hi> Heb. 10.37.</p>
+            </div>
+         </div>
+         <div type="poem">
+            <l>THe Lord must Reign, let all the World be still;</l>
+            <l>He then shall stand upon Mount <hi>Sions</hi> Hill,</l>
+            <l>When he shall judge the World in Righteousness,</l>
+            <l>A hundred forty four thousand, no less;</l>
+            <pb n="34" facs="tcp:192279:20"/>
+            <l>Tended with all his Saints and Angels too,</l>
+            <l>To give the World an utter Overthrow:</l>
+            <l>Then down goes Pope, and Turk, and all that Train,</l>
+            <l>Which have been Persecutors of Christs Name.</l>
+            <l>All those which ever have a terror been</l>
+            <l>I'th' Land of the Living, are not now seen;</l>
+            <l>Down to the Pit they are all of them gone,</l>
+            <l>Of their long home to take Possession.</l>
+            <l>He with his Sword will, and with Fire, destroy</l>
+            <l>Those People all, that do his Saints anoy:</l>
+            <l>And then the greatest Monarch that's on Earth,</l>
+            <l>
+               <hi>Jehosaphat</hi>'s fair Vale shall sit beneath;</l>
+            <l>He'll judge the wicked World of all the Wrong</l>
+            <l>Which they have done to Gods Saints all along.</l>
+            <l>The day of Judgement that is now begun,</l>
+            <l>The Ʋltimate Ʋniversal to come,</l>
+            <l>When all the wicked World shall sure appear,</l>
+            <l>T' answer for all their sins committed here:</l>
+            <l>Their sins not being buried in Christs Death,</l>
+            <l>They must be cast into the Pit beneath,</l>
+            <l>Where's weeping, wailing, and wo without end,</l>
+            <l>Ʋnto all such as here would not amend.</l>
+            <l>The Heavens and the Earth must fly away,</l>
+            <l>But that must be at the ultimate Day,</l>
+            <l>When Christ, his Saints and Angels all, shall be</l>
+            <l>In highest Heavens to Eternity.</l>
+            <l>Thus Christ delivers all up to his Father,</l>
+            <l>That God may be all in all, when together</l>
+            <l>All Saints and Angels are mounted on high,</l>
+            <l>To live with God and Christ Eternally.</l>
+            <l>To sing Hallelujah's for ever and aye,</l>
+            <l>And this is that great everlasting Day.</l>
+            <byline>S.H.</byline>
+         </div>
+         <div type="postscript">
+            <head>
+               <hi>POST-SCRIPT.</hi> Collections from <hi>Peter Serario</hi> of <hi>Amsterdam,</hi> concerning the Conjunction of all the Planets in one and the same Sign <hi>Sagitarius, 1662.</hi>
+            </head>
+            <p>AN awakning Warning to the woful World, by a voice in three Nations, uttered in a brief Discertation concerning that fatal and to be admired Conjunction of all the Planets, in one and the same Sign, <hi>Sagitarius,</hi> the last of the fiery Triplicity, to come to pass the 11th day of <hi>December, Anno</hi> 1662.</p>
+            <pb n="35" facs="tcp:192279:20"/>
+            <p>In which it is clearly evinced, as well by sacred Scriptures, as by the nature of the Conjunction it self, and other Antecedents, Con<g ref="char:EOLhyphen"/>comitants and Circumstances, that the glorious Coming of Jesus Christ is at hand: Whereby, 1. He will collect that dispersed Na<g ref="char:EOLhyphen"/>tion of the Jews. 2. Abollish the Man of Sin, who hitherto hath obtained the Principality as well in the Church as in the World. 3. At length erect his glorious Kingdom on Earth.</p>
+            <p>Jer. 10.2. <hi>Learn not the way of the Heathen, and be not dismayed at the signs of Heaven, for the Heathen are dismayed at them.</hi> If we walk obediently unto God, and walk faithfully in his ways, nothing of those things are to be feared by us, of which the Heathen are afraid; for in the midst of all these things, God will preserve his own.</p>
+            <p>And therefore the Lord tells us in <hi>Joel</hi> 3.16. That he will <hi>roar out of Sion, and utter his Voice from Jerusalem, and the Heavens and the Earth shall shake; but the Lord will be the Hope of his People, and the Strength of the Children of Israel:</hi> And in <hi>Joel</hi> 2.30. the Lord saith he will <hi>shew wonders in the Heavens, and in the Earth, Blood, and Fire, and Pillars of Smoke:</hi> and so <hi>Mat.</hi> 24.29. <hi>Mark</hi> 13.24. <hi>Luk.</hi> 21.25.</p>
+            <p>From these Scriptures we may conclude that those Signs conspicu<g ref="char:EOLhyphen"/>ous in the Heavens, especially in these last times, do necessarily por<g ref="char:EOLhyphen"/>tend somthing, &amp; they are deservedly and diligently to be observed.</p>
+            <p>Therefore that thou mayst the better observe the nature of this Conjunction or Concurrence of all the Planets in one and the same Sign of the Zodiack, take this Similitude.</p>
+            <p>
+               <hi>Whensoever we see all the RULERS in any City, or COMMANDERS in an Army of Souldiers, convene in one place, and there take counsel together, presently we thence conclude some grand thing is in agitation; the same thing therefore may be here concluded, when we see the Planets so convene and lay their Heads together: For look what the Rulers of a City, and Com<g ref="char:EOLhyphen"/>manders in an Host are, the same are the Planets in the Host of Heaven.</hi>
+            </p>
+            <p>
+               <hi>If some greater thing is hence to be expected, than ever any Conjunction be<g ref="char:EOLhyphen"/>fore produced, what other thing can this be, then the Restitution of that Kingdom so long promised and desired, and which the Apostles themselves expected by Ch<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ist to be erected, <hi>Act.</hi> 3.20. and the final Ruine of the King<g ref="char:EOLhyphen"/>doms of Unrighteousness in this World, that another World may succeed, whose glory may be meet for God onely, and to him ascribed.</hi>
+            </p>
+            <p>
+               <hi>If that be true that <hi>Theodorus Hoen,</hi> a famous Astrologer affirmeth, and others also testifie to be certainly collected from the Tables of Conjunctions of Pla<g ref="char:EOLhyphen"/>nets, That in the time of <hi>Noah</hi> there was the like Conjunction of all the Pla<g ref="char:EOLhyphen"/>nets in <hi>Pisces,</hi> a watry Sign, upon which followed the terrible Judgement of an Universal Deluge, which together at once, blotted out all the wicked from the face of the Earth: Why may it not be lawful for us to co<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lect from this concurrence of all the Planets in the fiery Sign <hi>Sagitarius,</hi> that by it is portended and foretold that fiery Judgement that immediately fore-runs the Kingdom of Christ? intimated in 2 <hi>Pet.</hi> 3.10. and <hi>Rev.</hi> 11.18.</hi>
+            </p>
+            <pb n="36" facs="tcp:192279:21"/>
+            <p>
+               <hi>If I should relate what prodigious things came to pass in Earth, in Heaven, during the bloody Wars in <hi>Germany, Poland, England, Sweedland,</hi> and <hi>Den<g ref="char:EOLhyphen"/>mark,</hi> I should be too tedious, and perhaps more ungrateful to tender years.</hi>
+            </p>
+            <p>
+               <hi>Of those things onely which happened in <hi>England, Scotland,</hi> and <hi>Ireland,</hi> in the space of one year, there is a whole Book extant under the Name of <hi>Mira<g ref="char:EOLhyphen"/>bilis Annus,</hi> which were seen in Heaven and in Earth, within the year 1660. And if there should be set before our Eyes, what Monsters have come forth from the time of the last Conjunction, as well among Brutes as Men, it would be horrid to hear them, and unsa<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e for Women great with Child to read them: Onely this one will I declare, of which I have undoubted certainty; to wit, That in <hi>Tanum</hi> a City in <hi>Norway,</hi> in the Province of <hi>Wensusel,</hi> about <hi>January,</hi> 1661. there was an Infant <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orn, which was heard to cry in his Mo<g ref="char:EOLhyphen"/>thers Womb twelve times, <hi>Wo to Denmark, Wo to the whole World.</hi> Therefore all these things which we have seen to follow the last Conjuction, and now also to prece<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e before the con<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rance of the Planets in the same place, are a demonstration to me, that of necessity some grand and singular things hereby are signified, even such things as I have but now noted.</hi>
+            </p>
+            <p>
+               <hi>I, but you will say, <hi>There was a Conjunction of all the Planets in</hi> 1186.</hi>
+            </p>
+            <p>
+               <hi>I answer, Although it fell in the bounds of a Conjunction, yet was it not in one Sign, as in ours, but in divers Signs, the great Luminaries being in <hi>Vir<g ref="char:EOLhyphen"/>go,</hi> and the rest of the Planets in <hi>Libra.</hi> 2. That Conjunction in 1186, being in an Earthy and Airy Sign, must necessarily be meeker then this in a Fiery Sign, or that in a Watry Sign in <hi>Noah</hi>'s time. Now lest any man should com<g ref="char:EOLhyphen"/>pute that Conjunction in 1186. to be of no moment, let him consult the Histo<g ref="char:EOLhyphen"/>ries of 1186. and he shall see that by and by, in the year following it, <hi>Jerusalem</hi> was taken by <hi>Saladine</hi> the King of the <hi>Sarazins,</hi> and the new Jerusalami<g ref="char:EOLhyphen"/>tish Kingdom was taken away from the Christians; nor were there wanting other horrid things; the Sea in <hi>Cicila,</hi> contrary to its nature, went back<g ref="char:EOLhyphen"/>ward, to the drowning of five millions of men. In <hi>Italy</hi> it rained Hailstones of the bigness of Goose Eggs: <hi>Carina,</hi> a City of <hi>Cicila,</hi> was swallowed of an Earthquake, and in that twenty thousand men perished: Also a fiery Ream was seen in the Heavens, and other portentous things of that nature. So that that Conjunction par<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed not without some notable operation on effect as well in the Air as in the Earth. Let men know that we do not put the whole st<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ess of our Prognostication in the naked Conjunction: for unless An<g ref="char:EOLhyphen"/>tecedents, Concomitants, and Subsequents, founded as well in sacred Scrip<g ref="char:EOLhyphen"/>ture as in experience, did not adde weight to the thin, we should not write these things with such confidence. Seeing then, that those signs in the Hea<g ref="char:EOLhyphen"/>vens and the Earth, are fulfi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>led, what else may we infer, but that the recei<g ref="char:EOLhyphen"/>ving and restoration of the Jews, and the Visitation of the Inhabitants of the Earth, conjoyned to it, (whereby God will render to them according to their works) are at hand. That the sixth Vial, which now is pouring out, shall make way for those Kings that shall come from the East, of whom <hi>Baruch</hi> makes ment<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, Chap. 5.5, <hi>&amp;c.</hi> That the Stone cut out of the Mountain with<g ref="char:EOLhyphen"/>ou<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hand (<hi>Dan.</hi> 2.45.) may cast down, break in pieces, and destroy all King<g ref="char:EOLhyphen"/>dom<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Earth, and instead of them, that Stone may fill the whole Earth. And <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f thi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be the thing which comes next to be expe<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ted by us, what marvel If we refer those Signs in Heaven and Earth, now concurring to th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s matter; and that we look upon them as Fore-tellers of the Jews Conversion, and the subversion of the last Monarchy of the World.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
